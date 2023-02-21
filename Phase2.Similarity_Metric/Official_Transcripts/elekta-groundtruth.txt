@@ -1,0 +1,568 @@
+Good morning, everyone, and warm welcome to the presentation of Elekta's Second Quarter 2020-2023. My
+name is Cecilia Ketels, and I'm the Head of Investor Relations at Elekta. With me here in Stockholm, I have 
+Gustaf Salford, Elekta's President and CEO; and our CFO, Tobias Hägglöv, who will be presenting the results. 
+Today's agenda starts off with Gustaf presenting some highlights of our development. Then Tobias will give you 
+details on the financials, and the presentation will end with Gustaf's view on Elekta's outlook. And after the 
+presentation, there will, as usual, be time for your questions But before we start, I want to remind you that some of 
+the information discussed on this call contains forward-looking statements, and these can contain projections 
+regarding revenue, operating result, cash flow as well as products and product development. And these 
+statements involve risk and uncertainty that may cause actual result to differ materially from those set forth in the 
+statement. And with that said, I hand over to you, Gustaf.
+Thank you, Cecilia, and hello, everyone, and as always, thank you for joining the call. And I would like to start on 
+how we delivered on our strategy in Q2. So during the quarter, we truly continued to focus on the execution of 
+ACCESS 2025, and I would also like to take you through some of the key areas and highlights. We released new 
+innovative solutions across the portfolio and also into new markets. I'll go through them in more detail later in the 
+presentation, but I would like to highlight the launch of Comprehensive Motion Management for Unity with True 
+Tracking and automatic gating. Also, the launch of Elekta Esprit at ASTRO, and also getting the FDA regulatory 
+clearance.
+And we also are expanding our global service portfolio with the launch of Elekta Care 360. When it comes to 
+driving the adoption across the globe and the availability of care, we have set a target to reach more than 300 
+million people in underserved markets until 2024-2025, and we are well on track to reaching this target. And the 
+outcome so far halfway in is that 150 million people have received the opportunity for radiotherapy. To support our 
+resilience and margin expansion, we initiated a cost reduction initiative last quarter, and it's progressing, I must 
+say, very well, and delivering towards the plan on SEK 450 million in savings on a run rate basis in the end of the 
+fiscal year.
+So if we now turn to the markets and/or the development, we saw that the global macroeconomic challenges 
+continued to drive uncertainties and resulted in a bit of a cautiousness and soft order development. But the 
+development was very, very mixed in the different markets and geographies. For example, in Americas, we had a 
+weaker momentum in Canada and South America, but the order intake in the US was at last year's levels. Also 
+Mexico showed good order growth and included high-end imaging and radiotherapy bundle deal. And we also 
+started to see a lot of positive contribution from our partnerships in the region as well as in other regions.
+In EMEA, we continued to see a strong order momentum contribution from the large tender in Spain as well as in 
+the Middle East. And we were also selected to deliver the majority or 37 Versa HDs to modernize a large part of 
+Italy's installed base. But I must say, that these orders will first come in the remaining quarters on the Q3 and Q4. 
+The decline in the region was driven by softer development in Northern Europe as well as in Africa. So if we turn 
+to APAC, then we saw that China came back to a healthy order growth of almost 10%. But we saw the modest 
+order growth in the number here to be really explained by the weaker development in large mature markets such 
+as Japan and Australia and New Zealand.
+We saw East Asia had a positive development with Korea as the main driving country. And in India, we had deal 
+in the quarter with Karkinos Healthcare that was acquiring several Versa HDs and Harmony Pro systems. And if 
+we go to revenue, we saw that the revenue declined in the second quarter. The installations, they were negatively 
+impacted by continued supply chain disturbances, lockdowns in China and to some extent also customer 
+readiness. We saw the revenue dropping in Americas and EMEA, but we saw growing US installations and 
+revenue as well in Europe. So the negative development in APAC was mainly impacted, as we said, by the 
+lockdowns in China.
+We saw the recurring revenue in service, I think, good growth rate of 7%, and this is higher than the growth of the 
+installed base of 5% that is now reaching around 5,100 units of linacs, Unitys and Leksell Gamma Knife systems 
+at the end of the quarter. And I also want to highlight that we have a record strong order backlog, and it is 
+supporting increased installations and growth going forward. So if we now turn to some of the key product 
+launches, and I would like to start with service. And in order to drive this service growth going forward, we 
+continue to strengthen our position in customer lifetime companion, and we're increasing our value-added 
+services by the launch of Elekta Care 360.
+And it's really about expanding the portfolio with services such as dosimetry, consultancy services, physics startup, and it's about aiming and enhancing customers' clinical operations. And it's also important to say that we offer 
+this in a vendor neutral set of services that is both applicable to our own installed base, but also in mix site. And 
+again, this is supporting service growth going forward. We've started in the US and Americas, and we'll roll it out 
+globally as we go forward. And one of the absolute highlights on the quarter and something I really experienced in 
+ASTRO was the launch of Comprehensive Motion Management for Unity with True Tracking and automatic gating 
+functionalities.
+And these features are absolutely key and they are driving efficiency and productivity, as well as creating 
+opportunities for condensed treatment courses, fewer side effects and improved outcomes for cancer patients. So 
+far, we have received CE Mark, as you know, and we have also submitted our FDA application that's now 
+pending. And I'm really, really pleased to report out that the first patient was treated earlier this week with 
+Comprehensive Motion Management. So we are also experiencing the build-up of the clinical evidence for Unity 
+at ASTRO, a number of abstracts, clinical abstracts showing the power and promise of Unity.
+And we had a great study on prostate cancer that shown that there was no significant decline in quality of life in 
+the cohort using [indiscernible] (00:08:25) guidance and online adaptation, whereas in the cohort not using online 
+adaptation, there was a decline. For pancreas cancer patients reported limited adverse effects and stable global 
+health status after three months. And importantly, 67% of patients were alive one year after the end of the 
+treatment, and these outcomes are positive compared with historic outcomes for pancreatic cancer. And also, of 
+course, to Esprit and taking Esprit to the US and to ASTRO, so we continue this rollout and Elekta Esprit, it has 
+both CE and FDA regulatory clearance.
+So it is enabling patients with brain disease, cancer and other tumors to benefit from the most advanced Gamma 
+Knife platform, enabling more personalized rate of surgery with sub-millimeter accuracy and treatment planning in 
+less than 60 seconds. So with these new launches, Esprit, Comprehensive Motion Management for Unity and The decline in the region was driven by softer development in Northern Europe as well as in Africa. So if we turn 
+to APAC, then we saw that China came back to a healthy order growth of almost 10%. But we saw the modest 
+order growth in the number here to be really explained by the weaker development in large mature markets such 
+as Japan and Australia and New Zealand.
+We saw East Asia had a positive development with Korea as the main driving country. And in India, we had deal 
+in the quarter with Karkinos Healthcare that was acquiring several Versa HDs and Harmony Pro systems. And if 
+we go to revenue, we saw that the revenue declined in the second quarter. The installations, they were negatively 
+impacted by continued supply chain disturbances, lockdowns in China and to some extent also customer 
+readiness. We saw the revenue dropping in Americas and EMEA, but we saw growing US installations and 
+revenue as well in Europe. So the negative development in APAC was mainly impacted, as we said, by the 
+lockdowns in China.
+We saw the recurring revenue in service, I think, good growth rate of 7%, and this is higher than the growth of the 
+installed base of 5% that is now reaching around 5,100 units of linacs, Unitys and Leksell Gamma Knife systems 
+at the end of the quarter. And I also want to highlight that we have a record strong order backlog, and it is 
+supporting increased installations and growth going forward. So if we now turn to some of the key product 
+launches, and I would like to start with service. And in order to drive this service growth going forward, we 
+continue to strengthen our position in customer lifetime companion, and we're increasing our value-added 
+services by the launch of Elekta Care 360.
+And it's really about expanding the portfolio with services such as dosimetry, consultancy services, physics startup, and it's about aiming and enhancing customers' clinical operations. And it's also important to say that we offer 
+this in a vendor neutral set of services that is both applicable to our own installed base, but also in mix site. And 
+again, this is supporting service growth going forward. We've started in the US and Americas, and we'll roll it out 
+globally as we go forward. And one of the absolute highlights on the quarter and something I really experienced in 
+ASTRO was the launch of Comprehensive Motion Management for Unity with True Tracking and automatic gating 
+functionalities.
+And these features are absolutely key and they are driving efficiency and productivity, as well as creating 
+opportunities for condensed treatment courses, fewer side effects and improved outcomes for cancer patients. So 
+far, we have received CE Mark, as you know, and we have also submitted our FDA application that's now 
+pending. And I'm really, really pleased to report out that the first patient was treated earlier this week with 
+Comprehensive Motion Management. So we are also experiencing the build-up of the clinical evidence for Unity 
+at ASTRO, a number of abstracts, clinical abstracts showing the power and promise of Unity.
+And we had a great study on prostate cancer that shown that there was no significant decline in quality of life in 
+the cohort using [indiscernible] (00:08:25) guidance and online adaptation, whereas in the cohort not using online 
+adaptation, there was a decline. For pancreas cancer patients reported limited adverse effects and stable global 
+health status after three months. And importantly, 67% of patients were alive one year after the end of the 
+treatment, and these outcomes are positive compared with historic outcomes for pancreatic cancer. And also, of 
+course, to Esprit and taking Esprit to the US and to ASTRO, so we continue this rollout and Elekta Esprit, it has 
+both CE and FDA regulatory clearance.
+So it is enabling patients with brain disease, cancer and other tumors to benefit from the most advanced Gamma 
+Knife platform, enabling more personalized rate of surgery with sub-millimeter accuracy and treatment planning in 
+less than 60 seconds. So with these new launches, Esprit, Comprehensive Motion Management for Unity and Elekta Care 360 will together, with the work with price improvements across the portfolio, positive contribute to revenue and margin growth going forward. So with that over to you, Tobias.
+Thank you, Gustaf, and good morning, everyone. I will now start with the Q2 financials. Total net sales decreased 
+by 5% organically in the quarter, driven by the supply chain disturbances and COVID restrictions in China. Our 
+installation volumes were negatively impacted, but we're pleased with the continued good growth in service. Net 
+sales in the Americas decreased by 3%, with solid sales in the US, while Canada declined in the quarter. Net 
+sales in EMEA decreased by 7%, with good growth in Europe, offset by lower sales in the Middle East and Africa. 
+In APAC, net sales decreased by 5%, impacted by lockdowns in China, as well as lower installation volumes in 
+Japan and Australia. India continued to show good growth in the quarter.
+Our adjusted gross margin declined in the quarter. We saw a clear impact on FX on our P&L. Foreign exchange 
+rates had a positive impact on our gross margin, while exchange rates hedges had a negative impact on our 
+operating margin. In total, the FX effect was positive SEK 7 million on EBIT compared to last year's second 
+quarter. Our adjusted EBIT margin came in at 7.7%. Then let's look at our gross margin range. Our adjusted 
+gross margin amounted to 37.3% in the quarter. The low net sales growth contributed negatively by 160 basis 
+points. Improved mix from selling relatively more service than solutions contributed positively by 140 basis points.
+Foreign exchange rates had a positive impact of 140 basis points, mainly driven by the strengthening of the US 
+dollar. Supply chain challenges continue and increasing inflation still puts significant pressure on COGS, and the 
+total impact on adjusted gross margin from higher supply chain cost and inflation was 250 basis points negative in 
+the quarter. Then looking into our expenses, selling expenses increased by 13% year-over-year in the second 
+quarter. This was driven by more in-person customer events and meetings, including travel and exhibitions such 
+as ASTRO and launch events in China. Sequentially, our selling expenses declined by 2%. Our administrative 
+expenses were flat year-over-year and continued to decline sequentially.
+Net R&D expenses decreased both year-over-year and even more so sequentially. I will now return to the 
+development of the R&D expenses later. All in all, year-over-year expenses increased by 3% in constant 
+exchange rates, but declined 6% sequentially, and we start to see the results of our cost reduction initiative. So 
+let's look into our spend reductions in more detail. Our cost reduction initiatives has been successful, and is 
+progressing according to plan. As you saw on the previous slide, our expenses are declining sequentially. The 
+cost reduction initiative has reduced our spend by SEK 50 million year-over-year in the quarter, of which SEK 10 
+million affecting COGS, SEK 30 million affecting gross R&D, and SEK 10 million affecting selling and 
+administrative cost.
+For the full year, we continue to expect year-over-year spend reduction of approximately SEK 200 million. And by 
+the end of this fiscal year, we expect to have reduced our run rate of spending by SEK 450 million. As presented 
+last quarter, SEK 150 million will come from COGS reductions, SEK 200 million from optimizing R&D spend, and 
+SEK 100 million from lower selling and admin expenses. The one-off cost for implementing these cost savings are 
+estimated to be up to SEK 400 million. So far, implementation costs have amounted to SEK 131 million of which 
+SEK 52 million impacted our COGS. Then if you then look at the gross R&D, the gross R&D increased year-overyear, but decreased sequentially as seen in the left-hand chart. 
+Our acceleration in investment and innovation peaked in Q1 as previously communicated. In the right-hand chart, 
+we can see that gross R&D has also stabilized as a percent on net sales on a rolling 12-month basis. 
+Capitalization increased compared to last year, but decreased sequentially. Amortization was stable both yearover-year and sequentially. Now, let's look into the net working capital development. Our net working capital as 
+percentage of net sales on a 12-month rolling basis amounted to negative 2% in the quarter and continued to 
+follow a normal seasonal pattern. In the quarter, we continue to build inventory due to the continued long lead 
+times, increased level of shipments to secure future installations that to higher accounts receivables and customer 
+advances.
+Then if we look into our cash flows, EBITDA amounted to SEK 465 million in the quarter. Taxes, interest net and
+other, the next table there, amounted to SEK 319 million negative. This consisted all the taxes paid amounted to 
+SEK 145 million, and the remaining is mainly related to currency revaluations. The change in working capital 
+amounted to SEK 202 million negative, as discussed on the previous slide. Cash flow from operating activities 
+amounted to approximately SEK 55 million negative. This resulted in an operational cash conversion of 6% on a 
+rolling 12-month basis. Our continuous investment amounted to SEK 362 million, mainly driven by R&D 
+investment in the Linac family and software to strengthen our product offering. All in all, our cash flow after 
+continuous investment was SEK 417 million negative.
+Now, let's turn slide and look into our financial position. Our net debt to EBITDA ratio amounted by the end of the 
+quarter to 1.38. Worth noting in the current macroeconomic environment is that we have a low refinancing risk 
+with only SEK 500 million in maturities until March 2025. Our interest-bearing liabilities have an average maturity 
+of 3.6 years. All in all, we have a strong balance sheet with good financial position.
+Over to you, Gustaf.
+Thank you, Tobias. And now, I'd just like to share some comments about our outlook and summarize the quarter. 
+So if we turn to the outlook, as you've seen and heard, we expect uncertain macroeconomic environment and the 
+supply chain challenges to continue to impact installation cost and margins in Q3. But looking forward and looking 
+into Q4, we see that the situation should gradually improve during the fourth quarter. And as always, I would like 
+to highlight that the long-term market trends is truly supporting growth and investment in high-end radiotherapy 
+equipment and margin expansion.
+So if we look forward and look until 2024-2025, our outlook period, our mid-term outlook period, we continue to 
+see net sales compounded annual growth rate above 7%, an EBIT margin percent expansion, and a dividend 
+policy of at least 50% of net income. And just to summarize the quarter, we continue to see the macroeconomic 
+challenges impacted orders, revenue and margins in Q2. We saw great new launches and price improvements 
+that will contribute to revenue and margin growth going forward. And we also see that our cost reduction initiative 
+is on track and will expand our margins.
+So with that, I hand it over to you, Cecilia.
+Thank you, Gustaf. Now, we continue with a Q&A session. So please, operator, over to you to open up for the first 
+person in line for questions.
+The first question comes from the line of Erik Cassel from ABG Sundal Collier. 
+Please go ahead, sir.
+Hi. Good morning, everyone. So service performs fairly well, but against the backdrop of weak solution sales. I 
+mean, based on that, are you seeing customers go for service method to prolong the life span of their linac rather 
+than just outright replacing it, considering the softer hospital CapEx environment we're seeing now in more mature 
+markets?
+Hi Erik. Gustaf here. No, I wouldn't say that's the main driver. I think the main drivers that we add more value to 
+the installed base are more service offerings, a bit more of the SaaS solution as well, driving a higher service 
+growth, but also higher service contract penetration. And as you know, we aren't going direct in quite a few of the 
+expanding markets when it comes to going direct with Elekta operations, and then we take over the service in that 
+country, and that is also a positive driver for our service growth. So I don't see a big trend in customers pushing 
+forward CapEx decisions and take more service revenue. No.
+Okay. Interesting. Thank you. And then I was just thinking, could you perhaps expand on your guidance, and why 
+you expect the recovery to start in Q4 but for it to remain challenging in Q3? I mean, what sort of visibility have 
+you gained to support that view?
+Yeah. No, great question, Erik. And as I often say, we can look into, say, two quarters into the future when it 
+comes to our shipment plans, when it comes to the installation plans, when it comes to also the order backlog to 
+some extent. But if we focus on revenue, then you had those two quarters where the first quarter is kind of filled 
+up to a very large extent when you enter into that quarter with machines going out to the installed base. And then 
+the second quarter, so for now Q4, then you have a plan for those installation dates and the machines going out 
+and upgrades and everything around it. And there we see a positive driver or higher volumes in our plans.
+It's also important to say that quite a lot of the logistic challenges we have seen for such a long period of time now 
+is improving. It's easier to get hold of sea freight, the rates are going down, the air freights we can transfer more to 
+sea freight, and all of this has a positive impact on our margins then, that has been a big drag on the margins 
+since the last, what is it, six, seven quarters now when it comes to supply chain costs. So it is about that improved 
+visibility and helping the customers to be ready to take on the installations so we can then also take the revenue 
+when we start the installation. So it's about our own transparency into the coming quarters.
+Okay. That's very interesting to hear. Just one last, if I may. I mean, you reiterate the midterm outlook, but I'm 
+thinking especially about the EBIT margin improvement over the period. I mean, you're trending a far way off that 
+right now. So could you perhaps talk about what key levers you expect to see drive that expansion over the 
+period?
+So I can take the longer term perspective, and then I'll hand it over to Tobias to kind of go through the bridge and 
+how we see it right now. If you take the long term perspective and as was said in the Capital Markets Day, we 
+were quite stable on the 41%, 42%, historically. Now, we've seen it been significantly impacted by supply chain 
+costs and so on, almost 500 basis points if you add up the two quarters' effects in the Q2. So now we see gradual 
+improvement on that. And then we offset some of the inflation when it comes to price increases. That does takes 
+a bit of time before it turns from order backlog to revenue. But I mean, we see those effects that would come in 
+future quarters. So I think that's why we're also optimistic on the margin expansion on the EBIT line. And if we 
+then take the more FX in the current quarter, I'll hand it over a bit to Tobias to give some more flavor there.
+Yeah. Sure. And thanks for the question. I mean, in general, when you look at, okay, where are our margin right 
+now, and if you more take sort of a longer perspective, I mean, we should have drivers both in growth, price, cost 
+reduction, and also when you look at the FX component as such, just that the levelling out here, the hedge impact 
+there will also improve. So that is sort of, there are many levers, and of course, then you need to take into 
+consideration that things will happen in the market, et cetera, going forward. But there are – I would point at all 
+these levers a little bit, but that item is substantially lower that we will have somewhat increased here for 
+amortizations. But other than that, those four would be the four I would point, that if you think where are our 
+operating margin now and why should it improve.
+Okay. Thank you very much, Gustaf and Tobias. I'll jump back in the queue.
+Thank you.
+Thank you, Erik.
+The next question comes from Mattias Vadsten from SEB. Please go ahead.
+Hi there. Mattias Vadsten from SEB. First question relates to US orders in Q2. You write in the report that order 
+cautiousness in the US, at the same time, highlighting that it remained on the previous year's high level. So if we ooked at the US isolated, would you say there are any reasons for being cautious ahead or how do you see it, how should we interpret those comments in the report?
+Yeah. I think, of course, we want to grow in all markets and now we came in, I would say, flat on orders in Q2 
+that, I mean, as you remember, last quarter was a week development in the US. So for me that was kind of 
+positive signal. Then also taking part of a lot of customer discussions during ASTRO, I saw a great interest in 
+Unity, especially now with Comprehensive Motion Management, the Gamma Knife the same, service the same. 
+So I think we have many levers to drive, to address the US market. Then, of course, there is increased interest 
+rate, CapEx freezes at some customers, but it's a very mixed situation in the US where you have parts of the 
+market really continuing to invest in new capacity, and then somewhere it's tougher. But I think we have the right 
+products and kind of tools to address the market and drive growth going forward as well.
+Thank you very much. And then my second one, going back to quarter one, you expected flat installations yearover-year in Q2. Now, with the results coming in, we have solutions down some 13% year-over-year. So if you 
+could just single out the main components to what has deteriorated since then, because you expect this headwind 
+to remain in quarter two back then. So to that maybe, would you say like the customer readiness has gone worse, 
+or what are you seeing during the quarter?
+No, I think it's a great comment, and as you remember, what Mattias is referring to is, we said that the insulation 
+would be the same, the numbers would be the same as the previous quarter or quarter last year. So what 
+happened is really a lot to do with China. So we had quite severe COVID lockdowns in parts of China and was 
+difficult to get some of our products in during those lockdowns. It was both on the linac side, but it was also on the 
+Gamma Knife side, if you compare to the quarter last year. So that is the main reason for the solutions decline in 
+the quarter. We expect that to come back, of course. We see positive signals on the order intake in China, that 
+was close to 10%. So I think we're still positive on China, but sometimes, it is difficult to predict these, kind of, 
+lockdowns and when we can install. But overall, we are optimistic on China. That's a good clarification. Remaining a little bit on China, just over the near-term here with COVID cases surging 
+and so on, I just wanted to see if you have any comments on that development and what risks you're seeing 
+there. Are you seeing any worrying signs right now, or just some information around that? I think that's one of the most, if – of course, one of the most difficult things to predict is these lockdowns. But what 
+you can know is that there's lots of Chinese customers that want to have their linacs installed. So it's much more 
+about getting to the customers, start installation after then when the lockdowns are released. We have a large 
+backlog, we have positive signals on the order side, we've taken a lot of market share gain. So I think it's more the 
+installations. They will come, but it's difficult to predict how the COVID lockdowns will hit.
+That's perfect. Thank you very much.
+Thank you. Thank you, Mattias.
+Thank you, Mattias.
+Next question comes from Kristofer Liljeberg from Carnegie. Please go ahead.
+Yeah. Thank you. Coming back to the previous question about visibility, and again, I think you had a good 
+explanation there about China. But based on – three months ago you thought it will be flat, now it was down 13%. 
+So really, do you have any visibility for the fourth quarter?
+Yes. Thank you, Kristofer. So if you go through the third quarter into the fourth quarter, I mean, yes, we have the 
+visibility of the installations we're doing in those two quarters, especially during Q3. Then in Q4, it's filled up to a 
+very large extent, but still some you need to plan out with the customer to see when we start the installation and 
+you need to ship them. And I think we have quite a stable environment in most of the world actually now with 
+customer readiness. It's a bit more expensive for them to install the products, but still we get them there. It is 
+China that is a bit of the uncertainty due to, again, the lockdowns, as we mentioned. But overall, I would say, that 
+the transparency and the predictability has increased during the last quarter. And I think we'll see the benefit of 
+that into especially Q4, but also better predictability in Q3.
+And given your comment that China is the absolute majority of the deviation from flat to minus 13% [indiscernible] 
+(00:30:41) in solutions in the quarter, does that mean you couldn't do any installations at all in China? So that was 
+down 100% almost or...
+No, it's not 100%. But we had – if you compare to last year and the plan we had, it's linacs and it's Gamma Knife. 
+So it's not 100%, but it's significantly down if we compare to the plan and also what we had last year in Q2.
+Okay. Then on R&D capitalization and amortization. Could you provide some outlook here for the next of the year, 
+or the rest of the year, specifically how we should view that for next year?
+Sure. I can do that. Thank you, Kristofer. So actually what you saw here in the quarter, which was exactly what 
+we said here in Q1 was that, we had a reduction here of the gross R&D and then the capitalizations follow that 
+consequently, and then we have here in the quarter a stable amortization in Q2. If we then look ahead now and 
+you break these components down, you can further expect a slight decline of the gross R&D. You can also expect 
+a slight decline then that would follow all the capitalizations. And then in terms of the amortization that will – as 
+also previously communicated, that will gradually increase throughout the year. So those are the three 
+components there.
+But does this mean that the capitalization next fiscal year will be down versus this year?
+Yes, that will mean that. Yes. But it's also so that we sort of when you mature the projects, the capitalization rates 
+go up a little bit. But if you see that impact there from the gross R&D is actually a little bit bigger than that. So yes, 
+that it means.
+Okay. And my final question, I think you said that supply chain challenges and inflation had a negative impact of 
+2.5 percentage points on the gross margin. I think it would be helpful maybe if you could provide some, split that 
+up a little bit given your commentary about improved or signs of improvements when it comes to supply and also 
+lower freight cost going forward.
+Yes. And it's a fair comment. And to your point, there is a quite broad area. But just as Gustaf mentioned, I mean, 
+both in terms of visibility and also in current landscape, I mean, you see that the freight rates are trending in a 
+positive directions. We see that also in our P&L when we look at our logistic cost, for example. I think also the 
+visibility here, even though it's still a challenging environment in terms of getting the components on time. So 
+those things. But overall there, if you look at the supply chain challenges, there, you see improvements.
+What you actually see then, and why this is actually now still a big item is that, inflation has hit our P&L here. And 
+why is that then? It's a lot of that has to do with an indirect material impact so that our two largest assembly 
+company and the components here with material content in those, those material prices goes into increases 
+therefore the components that we buy, and that leads then to cost increase that we classify here as inflation. So 
+that is actually what we have seen here in this fiscal year. So that is how I would explain it.
+But do you see then a risk that even if freight costs are coming down, supply issues is getting better? Do you see 
+risk that because of – in a more overall general inflation, the gross margin will still not improve?
+So I think, I mean, from my point, Kristofer, that's the price increase initiatives we're doing to offset some of that 
+inflation. And we see that we have targeted all on linacs, all the Gamma Knife across the portfolio and also 
+service contract CPI clauses or index clauses to offset that effect on that level. So that's how we work with 
+inflation when it comes to offsetting it with price increases. And we start to see that we've been doing that on a 
+service side for quite a while now when inflation start to increase, and we've also done it on the solution side. So 
+some of that you will see in the coming quarters.
+But without price increases, is it so that the inflation on your material cost, et cetera is so high that lower or 
+improved freight costs and improved supply situation would not be enough to help the gross margin from here, so 
+that you're fully dependent on price increases?
+To answer that question, I mean, of course, that we are targeting price increases, we need to do that. It's not the 
+only labor, and as you know, it's running management and P&L, it's several components. I mean, this is 
+everything when we look at our gross margin development to drive a healthy growth, to actually have a healthy –
+when you work with your products and the COGS over time, how we do things smarter to have a productivity 
+improvement there, it's also about to drive consistently in the mix of actually selling more profitable products, et 
+cetera. So there are several levers, but I think that to the point that, I mean, in an inflationary climate, I mean, we 
+can't be stuck in the value chains, so of course, we need to work with price, but it's not the only tool that we have.
+Okay. Thank you.
+Thank you.
+The next question comes from Robert Davies from Morgan Stanley. Please go ahead.
+Morning. Thanks for my questions. I just wonder, you've made some comments already around the trends in the 
+US. But I'd just be kind of curious, in terms of the overall backdrop in the US, what do you put the kind of, I guess, 
+this is sluggish to put development in order of growth down to? Is it really sort of weakness on procedure volume, 
+staff shortages, supply chain issues? Can you give us a little bit more color in terms of what's going on in the US 
+side? And then just regionally, if you kind of map out where the Elekta Unity orders are actually coming from. 
+Thank you.
+Yes. So if I start with the US situation, now we came in flat, as I mentioned. Then there is a discussion as you all 
+are very aware of CapEx in hospitals going forward and how that will impact different med-tech areas. There, I 
+think it's important to say that radiotherapy is still a very profitable segment on hospital med-tech investments. So 
+we foresee that that will continue. And then I also mentioned this kind of consolidation of a quite fragmented 
+radiotherapy market in the US. On a customer operator side, we expect that to continue, and that often results in 
+increased investments actually in new capacity. So I mean, I'm optimistic for the RT field in the CapEx 
+environment in the US. And then, I think it's important for, say, for Elekta as well, working with our imaging 
+partners, also opens up doors, and that's a good and potential growth driver for Elekta forward. So I'm optimistic 
+about Elekta's role in the US market.
+Thank you. And just [indiscernible] (00:39:52) around the Elekta Unity orders, maybe if I can tag one alongside 
+that. Just be curious on the regional development in Europe, is there any, sort of, significant differences in country 
+development across Europe? Because, obviously, that was down high-single-digit in the quarter. Just, kind of, be 
+curious if there was anything that, sort of, swung that particularly.
+Yeah. On the order side you mean, Robert, in Europe.
+Yeah.
+Yes. So if we start with the Unity question, I mean, that's quite broad-based in both emerging markets, but also in, 
+for example, the US, on the Unity side. So there's no specific area that stands out. So you should see this as a 
+very global product right now that can address most countries around the world with Unity, from a regulatory point 
+of view, and that's what we're doing. It's Europe, it's China, it's emerging markets, and it's the US. So I think that's 
+a positive trend. And then if we look at the European dynamics, I think, for the industry, I think the big investment 
+programs in Southern Europe, if you take Spain, if you take Italy, they have been key growth areas. A bit weaker 
+in Central and Northern Europe is what we have seen so far. But Southern Europe is driving out.
+That's great.
+Driving growth, sorry. Yeah. Okay.
+The next question comes from Victor Forssell from Nordea. Please go ahead.
+Yes. Thank you. Firstly, on the installation side. It would be interesting to hear how it trended during the quarter as 
+you spend a lot of time talking about the Chinese lockdowns here. And also, please, if you could put this into any 
+sort of numbers or perspective since you guided for flat installation volumes into this quarter and in quite far off, 
+so what is the baseline that you start from here when you moved into November, please?
+Yes. And to answer that question, it's important to understand kind of our supply chain as well. So if you ship 
+something to China, that could be two months, even two-and-a-half months on a boat, and getting it there, the 
+product through customs and so on. Whereas if you do installation in, say, Europe, it can be days or weeks 
+between when we ship from the UK and reaching the customer. And then, US is somewhere in between that. So I 
+think it's easier to predict a European installation compared to a Chinese installation. So those machines were on 
+their way to the customers, but the lockdown hit us, and that was difficult to predict throughout the quarter 
+because they were on their way. It's easier, as I mentioned, in Europe, and to some extent US as well with the 
+predictability. So it was China that was the big, big delta when it comes to both linacs and Gamma Knifes when 
+we refer to installation volumes in the first quarter's outlook into the second quarter.
+Okay. And since you're now refraining from providing a similar statement into Q3 rather than just seeing the
+similar trends, does that mean that you still struggle in China, will installation volumes slightly be down in Q3 as 
+well? And any sort of figures around that would be helpful.
+I think, China, we have a big backlog. We have a huge need for installations. We'll see order growth, as I 
+mentioned, we've taken a lot of market share throughout the last year. So it's a bit unpredictable how the 
+lockdowns will impact the market also in the third quarter.
+Okay. But do you see similar sort of impact here in November? Is that correct?
+Yeah. It's still a bit – certain areas are still in lockdown, so it's more challenging to operate supply chain in those 
+regions or areas where there are lockdowns due to COVID.
+All right. Thanks. Just finally from my side also, on the gross margin, coming back to the inflationary pressures 
+and supply chain-related inflation as well, 250 basis points in this quarter. You talk about price having somewhat of an impact and we gradually have more of that. So I mean, what's your expectations on price to start off with,
+and any sort of figure you can provide us with, and then just secondly, why this headwind would not be in similar magnitudes for, let's say, Q4 then? That is my final question.
+Yeah. If you look at inflation, you have seen the numbers in all the different geographies. It was quite a lot in 
+Europe. It was a lot in the US, a bit less in parts of APAC and China. So I think that's the first thing we wanted to 
+offset with our price increases that we have done across the portfolio. And you have seen studies that med-tech 
+segments are somewhere between say, 5% to 10%, even 15% for some products of price increases due to these 
+effects. And then it's about, of course, you need to get that price increase when you negotiate or in a tender 
+process and so on. So the price realization will be a bit lower than your list price increases. But I think we've seen 
+a good trend there. We see that the prices in the average [indiscernible] (00:45:51) we're doing is going up. And 
+so I think we see the right trend there, and also a trend that will offset inflation. Then of course, it's very difficult to 
+know where inflation is heading going forward, but we see good price realization in market-by-market.
+Okay. So you won't be able to provide sort of a view on when the balance between price hikes that you are doing 
+and it's moving in the right direction compared to the costs that you have today, let's say, whether or not they will 
+increase further on.
+I don't have that crystal ball. No, I cannot predict that really, because I cannot predict inflation fully.
+Okay. Thanks.
+The next question comes from Julien Ouaddour from Bank of America. Please go ahead.
+Good morning, and thank you very much for taking my questions. So I have three, please. First one is just a 
+follow up on the mid-term guidance question that you had at the beginning, but more, let's say, specifically on 
+sales. So sales up mid single-digit last year, likely lower this year. So it seemed that you will need to grow top line 
+by, let's say, a double-digit number over the next couple of years just to meet the mid-term guidance. Do you think 
+you will need just to reassess the mid-term outlook at some point in the future? And just if no, could you stress the 
+key moving parts to reach it's – especially for the top line because you already provided for the EBIT?
+Next question just on cash flow, could you tell us when we should expect a normal situation with cash conversion 
+returning, let's say, to historical level? Also you seems to have some loans to customers in emerging markets. So 
+any color on the size of these loans would be super helpful. And last question on order backlog and price 
+increases. Order backlog at record level at the moment. Could you tell us what part of your backlog has an ASP significantly lower than your current adjusted selling price, and if it's still profitable for you to produce these 
+systems today? Thank you very much.
+Thank you. So I think I will take maybe the first and last question and I'll hand over the cash flow question to 
+Tobias. But if we look at the mid-term revenue outlook, we're saying more than 7% CAGR over the year. And I 
+agree, last year was 4%, and we'll see where this year ends up. But we are guiding continuously the outlook of 
+more than 7%. That was assuming a market growth of 6% to 8%. I think that's important to say as well. But 
+looking at what we have ahead of us, I mean, we have a backlog of SEK 43 billion. I mean, that should be 
+installed throughout that period of course. We saw before COVID market growing double-digit when you look at 
+orders, if you take the full industry. So I think there's a huge unmet need and potential for cancer care 
+radiotherapy.
+And my lesson learned a little bit from the provides financial crisis in 2008-2009 was that, CapEx, med-tech, RT 
+held up quit environment in that environment as well and continued to grow. So I mean, I'm optimistic on the years 
+ahead of us here when it comes to RT investments and cancer cure investment across our geographies. But a lot 
+of growth will come from, of course, underserved areas like China, like APAC, like Europe, you can say as well, 
+and many other areas. And then we will work with adoption when it comes to new products like Unity, like Esprit 
+as well in more mature markets like the US, for example. So as you hear, I'm optimistic about the industry and I'm 
+optimistic about Elekta's growth in the coming years. And for the cash flow and cash conversion question, I hand 
+it over to Tobias.
+Yes. Hello, and thanks for the question. Yeah. So I think, I mean, first of all, with you, I mean, you see the slide 
+and you also know the businesses that, I mean, we do have a seasonality in our cash flow, one of course, then I 
+mean, that itself is actually then leading also to a relative improvement. But if we more structurally look into higher 
+cash conversion, I mean, here, the working capital has followed the normal seasonal trajectory. And that is, I 
+mean, we might need from time to time do specific efforts. I mean, you talk here about – us talking about 
+inventories in order to meet the current situation. But otherwise, I mean, you will see now the reduction of gross 
+R&D, I mean, with this development in Q4 also that, I mean, of course earnings moves along with that as well, 
+and which then in a sense also have an impact on cash conversion. So even there, I mean, a gradual 
+improvement there. So that's how I would say it.
+And then, if you come to the order backlog recovery – and we discussed the ASP quite a lot in our order backlog. 
+And then, if you split up the order backlog, around 50% of it is service-related. And the service-related backlog, to 
+a very large extent, gets CPI clauses on, so index clauses on. For the rest of the backlog, of course, we feel it 
+now a bit with better pricing, but it's key thing also with launches. So launches has an even bigger impact on 
+pricing for new products because it's a new value you bring to the customer. So take Harmony, take Esprit, take 
+now Unity with Comprehensive Motion Management that will be driving – take Elekta Studio, it's certain products 
+that we have added also to a large extent to the installed base. But some of the linac projects that we may be 
+booked one-and-a-half to 2 years ago, yes, they would be on a lower ASP. I don't have the specifics around those 
+50%, what's with the higher ASPs versus lower. But we see a positive trend with the products we bring into the 
+backlog.
+Thank you, Gustaf. Just maybe on your last comment about the linacs with like a lower ASP. Is it still profitable for 
+you, I mean, let's say, to like to install them?
+I have a short answer to that question, and that's yes. Yes, they are profitable, those linac projects as well, even 
+though the inflation has gone up since we booked them.
+Thank you. Thank you very much, guys.
+So the time is running. Can we ask only to stay two questions for the remaining persons, because we have 
+several still on the line? Thank you.
+The next question comes from Oliver Reinberg from Kepler. Please go ahead.
+Well, thanks so much for taking my question. First question would be on orders. You now saw an 8% order 
+decline in the first half. I think there's not too much to consider from a comparison perspective. So just I feel it's a 
+bit difficult to reconcile this, kind of, order development was actually the improvement of your portfolio in terms of 
+launches Unity and the updated Studio, Harmony and now Esprit. So can you just talk to in which programs to get 
+more traction and for which program that's probably more of a cost journey. I was hoping actually normally for
+better order growth on the back of this portfolio and also upgrades of Harmony that you talked about in the past.
+Yeah. No, thank you, Oliver, and a great question. So if you look at the first half and look at the order growth, it's 
+minus 31% in Americas, it's plus 1% in EMEA, and plus 5% actually in APAC. Going forward, we foresee the 
+Italian deal, having good impact, positive impact in Q3, Q4. And then we also see the new launches having a 
+positive impact on the Unity side, because that is a key launch, I must say that, with the Comprehensive Motion 
+Management, with automatic gating. Those of you that have followed Elekta for a while, you know that that is a 
+key feature that we now bring out to the customers that has waited for it for quite a while. And that made a true 
+different in kind of the many customer discussions as well. When it comes to Harmony, yes, we see a good global 
+rollout of Harmony, and we'll continue to drive that. And then I also see service and services is also an area that 
+we would like to see driving growth going forward. So that's just a bit of the flavor on the new products and how 
+they can have a positive impact in the coming quarters.
+And anything that works with [indiscernible] (00:55:45)?
+[indiscernible] (00:55:48), I mean, if you look through the full COVID situation compared to maybe when we had a 
+Capital Markets Day, it's been said that over time, Unity is, maybe Gamma Knife has been a bit lower throughout 
+the COVID period, but we expect that to pick up now, especially with Esprit and the new functionalities. So I think 
+it's quite broad-based if you take the product-by-product that we see a potential for a good performance going 
+forward.
+Understood. Thank you. And then the second question, just, can you provide an update on your software 
+business and then how this is tracking? It's obviously the kind of highest margin part in your kind of business. 
+[indiscernible] (00:56:35) too much details, but I noted that there was a change in management, and I also noted 
+obviously the kind of lack of increase on amortized R&D [ph] maze (00:56:43) indicate that there has been certain 
+delays, I'm not sure is this related to software. But if you can just talk to the development of this software portfolio, 
+please.
+Of course, Oliver. And that's a very big question, but it is the area we are investing in significantly. If you've seen 
+the ramp up of R&D over the last one-and-a-half years, it's been software engineers. And the majority of our 
+engineers are driving this software growth. It's both the underlying software platform that I've talked a lot about in 
+the last years. But now we also start to lift on new modules, new products on top of that platform. And we showed 
+some of it at ASTRO in San Antonio and got great customer feedback. And we will continue to drive this software 
+to drive both treatment planning software growth, oncology information system growth and informatics growth. 
+And it is the key area for Elekta going forward. It's also about going more to SaaS themes. So Software-as-aService deals and that, as you know, it has not as much revenue growth in the first year because you have it 
+throughout the lifecycle of the products. So there you have a bit of a transition from a more license sales model 
+into more a SaaS model, and that will gradually happen over – that's a long period of time, five, 10 years.
+Okay. Thanks so much.
+Thank you.
+Thank you.
+The next question comes from Rickard Anderkrans from Handelsbanken. Please go ahead.
+All right. Good morning. Thanks for taking my question. Just one from me, please. So your competitor, Varian, 
+was out with the guidance of rather sharp improvement in growth and margin for next fiscal year, looking for 
+almost 4-percentage point EBIT margin improvement. Is that sort of reasonable to look out for in terms of Elekta's 
+trajectory here in the coming 12 months or so, or how should we think about what we're seeing from the 
+competitor side?
+I think that's more a question to Healthineers and Siemens about the guidance, what they're putting out. And we 
+don't have a guidance for the coming years. We have the mid-term outlook, that is more than 7%. We see positive 
+order trends. As I've talked a lot about throughout this call, that will translate into a strong and positive revenue 
+growth in the coming years here. But we are not saying any specific numbers there at the moment.
+Right. Fair enough. Thank you.
+The next question comes from Julien Dormois from Exane BNP Paribas. Please go ahead.
+Hi. Good morning, gentlemen. Thanks for squeezing me in. So I will put forward my two questions. So the first 
+one relates to the third quarter, just making sure I got the message right. From where you sit today, so we should 
+expect, again, the order book and sales to be in negative territory in the third quarter before reverting back to
+growth from Q4 onwards. Is that the way to interpret your comments? And my second question is relatively broad 
+based, but it's a quick update on your global partnership with GE. Is there any anecdotal evidence of early 
+commercial success from that partnership? And is there any region where you are more optimistic than another in 
+terms of the benefits that could deliver?
+Thanks, Julien. So on the third quarter, I mean, as we said, we expect the challenges, sometimes problems we've 
+had in Q2 when it comes to the supply chains and installations to continue there. Then we expect service to 
+continue to grow because that's kind of a recurring revenue stream. But I think the challenge is from Q2 into Q3 
+as well. On the order side, we see, as mentioned, a positive impact from Italy. The Italian tender, that's a 
+significant one. And then, we have positive signals from other markets as well, but it's a bit early to say so early in 
+the quarter here. So I think that's key.
+And then, one key growth driver, as you mentioned, Julien, is our partnerships, because as part of our strategy, it 
+is to have partnerships in the cancer care ecosystems, as we call it. And having the customers select what 
+imaging vendor they want to go with, our linacs or our products and bundle that and drive that growth, I think 
+that's a key strength of Elekta. And we start to see initial deals, and we have booked deals that is kind of bundling 
+with our imaging partners. And I expect that that share will increase going forward. But it's still quite low. I mean, it's maybe 5-ish percent of total, as we mentioned previously. It has increased a bit and will continue to do so, but 
+it's quite a slow development.
+Okay. Thank you.
+Thank you.
+The next question comes from David Adlington from JPMorgan. Please go ahead.
+Hi, David.
+[indiscernible] (01:02:36) and it's just on the medium-term guidance around the margins. You're talking about...
+You're breaking up a bit, David. Can you hear us? David?
+David, can you hear us? We cannot hear you. I think if we can...
+[indiscernible] (01:03:01).
+Yeah. Now, we hear you.
+Hi, David.
+Are you back, David? Otherwise, please, operator, can you take the next one because we have one more in the 
+queue, and then we can come back to you, David, if we can solve the technical problems. So please, operator, take the next one in queue, and then we'll take David after that. And we'll try to make it short because we're over time now. 
+The next question comes from Veronika Dubajova from Citi. Please go ahead.
+Hi. Thank you, guys. And I'll keep it to just one. Obviously, I think, Gustaf, it'd be great to understand given the 
+cost reduction initiatives that you're putting into place, do you think you have the installation capacity to drive the 
+type of significant growth that you're talking about in installations over the next couple of years that would be 
+required to hit the guidance? And if so, what type of investments would they require, or do you think you have the 
+sort of capacity today to do it without bringing more folks into the business? I mean, if you can walk us through 
+how you're thinking about that in the context of the mid-term guidance and the growth that would be required over 
+the next couple of years. Thank you.
+Thank you. Great to hear your voice again, Veronika, and welcome back. And I would also like to say on the 
+installation side, I think that's not where we have focused so much on the cost reduction side, because the 
+installers is driving a growth. They are installing our linacs, our software, our Unitys, our Gamma Knife. So that's 
+an area of the organization that we have kind of protected. And you can also plan for future revenue growth, and 
+then you can add more of that capacity going forward as well.
+But it's very important also to work on the underlying processes to reduce it, the time it takes to install, say, a 
+Unity or linac, to do more of the work remotely and the training, et cetera. And we have learnt a lot throughout 
+COVID to do things in more in a hybrid way that I also see that we can utilize going forward. I also foresee that 
+the inefficiencies that we now have in the supply chain puts a big toll on installers. It's quarantine in China, it's 
+longer lead times, it's multiple visits and so on. And you will get a lot of efficiency when that is stabilizing because
+of shorter lead times, less supply chain challenges, better access to key components, et cetera, and that you can 
+also drive more growth with.
+Okay. So if you were to see, let's say, double-digit growth in installations next year, just for the sake of argument, 
+you think you could accommodate that with the existing sales force or would you have to bring more people in?
+No, we could accommodate that.
+Okay. That's very helpful. Thank you, guys.
+Thank you.
+Thank you.
+Then, operator, we see if we have David again on the line and managed to reach him. It doesn't seem like it. 
+Okay. But we anyway are over the hours. So we very much want to thank you for listening in today. And please 
+don't hesitate to reach out should you have any further questions later on. So wishing you a great remaining day. 
+Thank you.
+Thank you.
+Thank you. Thank you, all.

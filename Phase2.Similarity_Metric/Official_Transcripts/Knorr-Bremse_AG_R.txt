@@ -1,0 +1,410 @@
+
+
+	Good day and welcome to the Knorr-Bremse AG Q2 2022 Conference Call. Today's conference is being recorded. At this time, I would like to turn the conference over to Andreas Spitzauer, head of investor relations. Please go ahead.
+
+
+Thank you, Elaine. Good afternoon, as well as good morning, ladies and gentlemen. My name is Andreas Spitzauer, Head of Investor Relations of Knorr-Bremse AG. I want to welcome you to Knorr-Bremse’s conference call for the second quarter 2022 results. Today, Frank Weber, our CFO, will present the results of Knorr-Bremse, followed by a Q&A session, which will be joined by Dr. Jurgen Wilder, Head of RVS, as well. The conference call will be recorded and is available on our homepage, www.knorr-bremse.com in the investor relations section. Here you can find today's presentation and later a transcript of the call. It is now my pleasure to hand over to Frank. Please go ahead.
+
+Thank you, Andreas, and welcome everybody to our conference call. We appreciate you are joining us today. I will start with the last quarter and the outlook for 2022. Afterwards, Jürgen Wilder, Head of RVS, and myself look forward to your questions. Bernd Spies, Head of CVS, was unfortunately unable to attend today, as he has important meetings with customers. I do hope that you understand that.
+Let’s kick it off on chart 2 with our main messages: 1) Despite many market challenges and macro economic headwinds, market demand in both rail and truck continues to be strong in almost all important markets. In China, the markets are much more cautious 2) We are well on track with our clear action plan
+to fight increased input costs in both divisions 3) We have the necessary strength to face all global economic uncertainties which will not disappear in the near future, BUT we are prepared and well underway. Our key points in that regard are: We derive 37% of revenues from aftermarket business; We have a rock-solid balance sheet with very low net debt; We are the market leader in rail and truck; Our customers need solid and reliable partners like RVS and CVS that can sustain a crisis like the one we are in. 4) We have done two very attractive deals in digitization, well in line with our promised digital business M&A strategy and we walk the talk. 5) We had to revise the FY22 guidance recently but are well on track to fulfil these targets
+
+On chart 3, I want to share our market view with you. Let me start with the rail market: We see that the underlying demand in both OE and AM business continues to be high, visible in a continuously very good order intake. We do not have any indication that it should significantly decline in the near future.
+Nevertheless again, let me point out that rail is a lumpy business which does not always go well with quarterly reporting. We have now seen three great quarters in a row but there might also be weaker quarters coming up in the future. Nevertheless, our good OE trend is long-term intact. Europe remains the strongest rail market for RVS but also North America continues to be a solid contributor. The consequences of the Russian invasion in the Ukraine are significant and weexpect very little turnover in this country in the future that is not affected by the sanctions. The Chinese market has been characterized by a strong weakness over the past quarters with low railcar investments
+and economic pressures through their zero-Covid policy. We now do not expect a significant recovery in H2/22 either.
+Overall, we are confident that we will see a subsequential improvement in the global rail industry in H2, also benefitting from increasing ridership levels.
+In the course of the year, we expect demand to remain healthy, which should also be reflected in a B-t-B ratio above 1. However, supply chains have also tightened in the rail industry since last year and inflation is also clearly noticeable.
+The truck market also experiences ongoing solid demand. Truck production rates in Q2 in Europe and North America developed positively year-over-year with a positive outlook throughout 2022, only limited by managed order books of our customers. China remains on a very weak level as expected.
+Supply chain situation and input cost increases are still the key concerns in the truck industry. In the coming quarters we expect that global supply chains remain challenging, but we see some signs of slight improvements. In regards to pricing discussions with our customers, we are well on track to compensate higher input costs. In the second half of the year, we will be able to book the first results here.
+High usage rates of old trucks currently drive the aftermarket business which continues to develop very positively. All in all, the global environment is tough but the underlying demand is robust, too.
+Let’s move to details of the second quarter on chart 4.
+
+
+Knorr-Bremse generated stable revenues of around 1.7 billion euros and an operating EBIT margin of 10.5%, which was impacted by both divisions. CVS posted revenues of 914 million euros at 8.1% operating margin and RVS 823 million euros in revenues, resulting in an operating EBIT margin of 14.3%. FX effects supported the development on revenues and EBIT but did not impact the EBIT margin significantly. Free Cashflow in Q2 was already significantly better than Q1 but still slightly negative with 35 million euros. Order intake of 1.9 billion euros increased solidly versus prior year. Please note that the order book also benefited from an upwards adjustment of 375 million euros, which does not affect the order intake. Specific existing orders like prototypes and FX effects etc. are now included in the order book.
+Let’s move to chart 5. As anticipated, Capex in Q2 with 77 million euros slightly increased year-over year and quarter-over-quarter, still fully in line with our targets. Larger investments on the Rail side were made for footprint expansion in India and capacity increase of brake pads. CVS invested among other areas in supplier tooling in Europe and APAC as well as in general capacity increases in the regions outside Europe. Net Working Capital – just as in Q1 – is accepted on higher levels as current uncertain times require higher safety stock and higher flexibility to mitigate disruptions in the supply chains best possible. We have set up a clear action plan, especially for the second half of the year, which will lead to
+a reduction of the NWC. Consequently, and also additionally affected by a lower EBIT contribution, ROCE amounted to 16.4%.
+Let’s have a look on the divisional performance in Q2, starting with RVS on Chart 6.
+
+Order intake of RVS was again remarkably high – after two strong quarters Q4/21 and Q1/22. It increased by more than 40% to 1.05 billion euros. The order book also increased by more than 35%
+year-over-year to 4.8 billion euros. The Book-to-bill ratio in Q2/22 was accordingly strong with 1.27.
+Let’s move to page 7. Revenues amounted to 823 million euros, a slight decrease by 3% year-over-year but an improvement as anticipated versus Q1 by around 50 million euros. RVS recorded declining sales in the OE business, primarily driven by the APAC region. The aftermarket business was up 2% year-over
+-year and its share increased from 45% to 47% in Q2/22. This development is remarkable, because many rail operators still having a lower number of trains in service due to Covid restrictions, lower ridership levels and a tighter supply chain that took its toll.
+
+China continues to face a strong rail market weakness and a slower recovery than expected from its lockdowns, both visible in OE and aftermarket business. Overall Chinese revenues decreased year-over- year by 10% which is much better compared to the 30% drop in the first quarter 2022. In North America, we recorded an increase in the OE and aftermarket business. We expect a sequential quarterly improvement from now on and anticipate that in 2022, overall, RVS revenues should grow solidly, predominantly driven by the OE business in Europe and North America. Aftermarket demand should increase, too, strongly depending on the development of rail traffic and travel restrictions, especially in China.
+Operating EBIT margin of RVS in Q2 reached 14.3%, after 18.4% a year ago. The main influencing factors of this weak development was the regional mix with much lower profit contribution from China. In addition, revenues and profits in Russia were significantly lower in the last quarter. Also, the input of higher inflationary costs was visible as countermeasures will come in during the year with a certain time delay. In the remaining six months, we expect to benefit from price increases to our customers and a slightly better development in China.
+Let us continue with truck on slide 8. Incoming orders of CVS amounted to 881 million euros, which is a decline of 18% year-over-year. A strong decrease after several quarters of record levels and a result of the ongoing weak Chinese market as well as of component shortages on the customer side with the consequence of a managed order book. We see strong underlying demand in Europa and North America, but OEMs are restrictive in taking orders from truck fleets because they have production bottlenecks. APAC – especially driven by China – remains on a low level. The order book of our truck division reached 1.9 billion euros at the end of June, which is a remarkable increase by 16%.
+Book-to-bill in Q2/22 was at 0.96.
+Currently, market demand is not our biggest concern and we rate the quality of our high order backlog as very good. Our problems, which we share with the whole truck industry, are the availability of parts and the stability of supply chains.
+
+Let’s move on to slide 9. CVS posted 914 million euros in revenues in Q2/22 – which is an increase of 4% year-over-year and a very good result considering supply chain disruptions and issues in China. In Europe and North America, CVS saw a positive development in all channels, OE as well as aftermarket. The APAC region still ranges on low levels after the China-6 introduction last year and the additional industry slow- down driven by zero-Covid measures in Q2/22.
+The utilization of fleets continues to be high, which drives demand for spare parts and services. Consequently, the share of aftermarket revenues increased from 25% to 27% in the last quarter. In absolute terms, that means aftermarket business increased by a strong 30 million euros, reaching 250 million euros. In the coming quarters CVS should be able to post a solid increase in revenues quarter-over-quarter. This positive outlook depends on the global supply chain situation and somehow a catch-up of truck production rates in China in the latter part of H2/22. In Q2 of this year CVS achieved an EBIT of 74 million euros, which is 24% lower year over year. The EBIT margin amounted to 8.1 % compared to 11.2% a year ago. This margin development was highly affected by the lower contribution from China as well as Russia. In addition, cost pressure from inflation and supply chain headwinds took its toll. CVS concluded price negotiations with many customers already. Major benefits from these negotiations will be reflected in improved margins in the second half of the year.
+Let’s move on to chart 10. The impacts of the Russian war in Ukraine and Knorr-Bremse’s previously announced withdrawal from business in Russia resulted in a meaningful adjustment of the guidance, as communicated on July 27. Our direct exposure in Russia on a full year basis amounts up to 200 million euros in revenues of which we expect to lose roughly € 130 million euros this year. On the margin side and on group level we expect to lose roughly 70 basis points on Knorr-Bremse group level. The withdrawal from Russian activities resulted in non-operating and non-cash expenses of 18 million euros which is reflecting a write-off of inventory. Additionally, we have a deconsolidation effect of 9 million euros for the KB Kamaz Joint Venture in our financial result.
+There could be an additional non-cash relevant maximum risk of additional up to 32 million euros for
+
+accounts receivables, based on our calculations currently. So far, we have not faced any payment defaults though. Currently we only fulfill existing contracts as long as they are not impacted by sanctions and we are not generating new business in Russia.
+Let’s move to page 11. Chinese rail and truck markets currently face strong headwinds. The recovery after their strict lockdowns is sluggish and puts companies active in China and around the world in challenging situations. Knorr-Bremse is not an exception. On the rail side, 2021 had already seen a certain market downswing in metro, fueled by a tougher environment in real estate which is an important basis for funding infrastructure investments, and high-speed due to ongoing low ridership. Looking into 2022, rolling stock figures range even below 2021 levels. RVS is designed in the current platforms in metro and high-speed, but with a lower number of produced railcars, we sell less KB products. So please let me be clear: it is not about market share losses which led to lower revenues. We are fully in line this year regarding market share development in metro and we are stable in high speed.
+Regarding market recovery, we only expect very little progress in the second half of this year.
+
+Truck production rates are also affected by a strong decrease of the Chinese market after the China6 introduction in July 2021. The additional hit from the zero-Covid policy takes its toll, resulting in a H1/22 TPR of roundabout 1/3rd compared to the first half last year. Until year-end we expect only some recovery of truck production rates in China and consider 725.000 in our full year guidance.
+One important strength of our business is the outperformance of underlying markets. This was again the case in China in the first half of 2022.
+Let’s move to page 12. To fight inflationary headwinds, we have defined a clear action plan that is already being implemented, 1) via price negotiations and 2) via our Group-wide profit and cash protection program. Our goal is to offset all inflationary headwinds is unchanged, despite the fact, that we now expect these to be 300 million euros in FY22. We plan to compensate around 2/3 of these headwinds via price increases to our customers and around 1/3 via all other measures, clearly focusing here on own cost and efficiency measures. A quick update on the ongoing pricing negotiations: We have already achieved good results with our Aftermarket customers in both divisions. This is also the case with several of our major OE customers in truck. The rail industry is of a more difficult nature. We finished important negotiations successfully already. First effects will be visible in the second half of 2022, while some
+
+benefits will spill over into 2023 due to longer cycles of contracts and binding durations of price sliding clauses.
+Let’s move to page 13. I have included this slide to give you transparency on all the headwinds we are currently facing and their impact on our outlook for this year. China is a clear burden. The before- mentioned market weakness with much lower volumes in both the rail and the truck market should lead to a burden of roughly 120 basispoints on EBIT margin this year. In addition, the impact from lost Russian business reduces our operating EBIT margin by 70 basis points. The good news is that with all our strong efforts in our profit and cash protection program, we are confident to compensate all the remaining headwinds in a nutshell. Also the quite high level in regards to degree of implementation of the measures underlines this confidence. That clearly shows the strength of Knorr-Bremse. We therefore expect moderately higher profitability in the second half of 2022, resulting in a Group operating guidance of 10.5 to 12.0% for FY22.
+On chart 14, we confirm the revised operating guidance for 2022, given on July 27. We increased the lower end of our revenue guidance and now expect revenues between 6.9 to 7.2 billion euros, an operating EBIT margin between 10.5 and 12.0 % and Free Cashflow between 300 and 500 million euros for 2022. Please note that this guidance is based under the assumptions outlined on the right side of page 14.
+Let’s finish with an update on RVS China and recent M&A activities.
+
+On page 15, we explained at our CMD last year that we have a clear two pillar strategy going forward: 1) we want to leverage our existing strong market positions in both divisions to grow and secure our existing core-business fields and 2) we want to leverage our strong foundation and expand into new growth markets of digital businesses following the strong underlying megatrends, both organically but also via acquisitions and partnerships.
+Let me outline RVS’ development in China and what we expect in the years ahead on chart 16 for our core business. Revenues declined since peak levels in 2014/15 despite significant market investment, driven by market share losses in high speed as expected. In the last two years Covid took its toll and despite rather stable market shares, lower market investments could not be overcompensated. We believe infrastructure investments will continue in the coming years, which definitely will lead to new rail
+
+vehicles. On top, rail traffic should improve from the low levels eventually, even though it is currently difficult to assess when this will exactly be. Therefore, we expect aftermarket revenues to increase again in the future and CRRC’s ambition to expand abroad is an opportunity. Overall, we expect slight market share losses in metro in the next couple of years, while high-speed market share should remain rather stable. Nevertheless, we expect RVS sales to continue to decline slightly but we see a level of around 600m euros as sustainable floor. With that floor – that we currently see – we expect the aftermarket share to increase steadily. Also, profitability will reduce over time. So, what do we do in China:
+We are expanding our aftermarket footprint in China
+
+We started an efficiency program under PCPP to move the  organization from growth to a sustainably lower fix cost base
+We are doing everything we can to remain the innovation and quality leader in China
+
+China is a great business for Knorr-Bremse – just not the big growth driver anymore but China will stay a meaningful contributor to KB’s profits and cashflow. Regarding growth we see more opportunities in other regions, especially Europe and NA and we will exploit those. In addition, we are working on other profitable segments in rail, which should be able to partially compensate the expected development in China - of particular interest are: freight segment, digital coupling and digitization in the aftermarket business.
+Please move to page 17. In July, we announced the acquisition of Cojali which will strengthen CVS’s aftermarket and digitization business with highly accretive margins. Cojali is a world-leading developer and manufacturer of Jaltest Diagnostics, the multi-brand diagnostic system for commercial and other vehicle types in the aftermarket segment. We are strengthening our existing aftermarket business by investing in a commercial vehicle-specific diagnostics solution that will open up new business opportunities for us in the fields of big data and predictive maintenance based on big data. CVS’s aftermarket revenue share will expand by approximately 150 basis points.
+Let’s have a look on our Nexxiot investment on page 18. We have concluded a comprehensive cooperation agreement and became largest shareholder of Nexxiot contractually, enabling RVS to make full use of Nexxiot’s sensor technology and data ecosystem. Once RVS‘ brakes, doors, HVAC, sanitary and other systems are connected with Nexxiot’s digital ecosystem, we will be able to generate data. This
+
+information will enable us to set up new business models increasing vehicle availability, optimized lifecycle costs and greater operational efficiency.
+
+
+I would like to thank all colleagues, employees, business partners and customers for their tremendous efforts in this challenging quarter and times and with that, I'll turn the call back to the operator to begin the Q&A session with my colleague Jürgen. Thank you.
+
+
+	Thank you. If you would like to ask a question, please signal by pressing star one on your telephone keypad. If you're using a speakerphone, please make sure your mute function is turned off to allow your signal to reach our equipment. Again, press star one to ask a question. We'll pause for just a moment to allow everyone an opportunity to signal for questions. We will take our first question from Sven Weier from UBS. Please go ahead.
+
+
+Yes. Thank you and good afternoon. The first question is just to follow up on the slide number 16 on the China outlook. And I was just wondering, because you assume another decline there, is it that you assume that basically the current situation, which is highly impacted by the zero- COVID strategy, will actually last until 2025 and will only get better afterwards? Or, is it really that the loss of market share, the autonomous policy impact actually counter ways a market recovery that we could potentially see after this year? That's the first one. Thank you.
+
+Yeah. It's Jürgen here, Sven, let me answer that question. We currently see actually, due to COVID and also the savings measures, that the China rail system is facing, that we believe and that is also a little different from how we saw the world in China in the last fall, that for the next few years actually, and even into 2025, we do believe that on the metro side, the number of cars that are going to be produced and being sent into the market will be largely reduced. I mean, we had a number that we assumed before, which is all based on direct customer feedback also, it's not just numbers that we pick, where we were considering like more than 7,000 vehicles per year.
+
+We now believe that in the next few years we are more facing like 5,000 metro cars per year. So, the market is really going down.
+And also in the high-speed side, we were assuming numbers that are more like 180 to 200 trains a year, whereas again this year we are looking at more 60 out of which like 30 trains are ordered right now. And that situation, we believe, will slightly recover, but last for the next few years. And that's why we also believe that a quick recovery because of that in the OE business is not that likely. And that is reflected in the chart 16. Long term, it is that the market will grow again. We believe that. But also, then the impact out of the autonomous policy will then come into place. And therefore, those numbers that you see on page six are derived from that consideration.
+
+
+Okay. Thank you, Jurgen. And maybe if I may follow up on how does that kind of new thinking compared to the fall last year impact your thinking around the mid-term margin target for RVS that you have seen at 18 to 19.5%? I mean, does that also have a structurally negative impact or are you confident that you can compensate that with the other opportunities where I guess some of them are more weighted to the end of the decade I guess? So, it’s I guess probably hard to achieve that target without the China contribution.
+
+
+Yeah. Thanks, Sven. Clear question. I mean, so literally looking at this sort of the China impact and leave alone for a second all the other opportunities outside China that we would be having, clear that the midterm guidance would look more, so to say, aspirational for us to achieve, just looking at this effect solely. But I think as I had in my statement already mentioned, we do have other opportunities and Jürgen has other opportunities not only in Europe but also in other parts of the world with digital coupler potential business, freight markets developing potentially better than we expected last year. So other opportunities out there as well on the aftermarket side. So, taking this into consideration should at least be able to partially offset this effect. And we are still working on additional measures to go even further, but maybe some additions by Jürgen.
+
+Yeah. Happy to. I mean, you are right with your assumption, of course. If the China business goes down to a certain extent as we also stated on slide 16, that will hurt us to a certain extent. But the challenge will be, and there is opportunities out there to, let's say, compensate this rather let's say higher margin business compared to margins that we make in other parts of the world with other business that is also of high margin and that we need to consider also our portfolio in the next few years how we streamline that. And we need to consider just the situation in the decoupling world where the Chinese market will get more and more independent and maybe also harder to control for us. It's reflected in our numbers that we showed there already that we find other opportunities in our core markets, whether it is Europe especially, also North America, considering our portfolio organically and also inorganically in order to basically compensate for that. And I think there is opportunities out there that we are very closely looking.
+
+
+Frank already mentioned, for example, digital business, also our acquisition with Nexxiot will help long term. That is clear. We will accelerate with that share that we bought there and the cooperation agreement that we have made there our digital business by about two years because we have access to a scalable cloud services there, and in a smart way basically evaluate data, generate additional business models. And we clearly have planned to grow there faster than we could without that. That is very important. And that goes into basically digital automated couplers and freight and all the business that comes with that, whether that is automatic brake test, which will lead to quite a bit of efficiency improvement in the sector. And we can, with our portfolio, I think largely participate in that. And that is a few examples, and there's others, how we were in the future compensate for indeed more difficult, getting more difficult situation in China.
+
+
+And Sven, one last addition because also you mentioned a closer look at our portfolio as well , Kiepe divestment, we have also not considered when we talked about the CMD mid-term targets back then in November of last year with that accretive margin effect that we would have out of that, that is another countermeasure.
+
+So, is it may be fair to say in summary, when again, I think about 2025, that with the growth opportunities you have and the good order intake also this year, maybe there's a chance one is more on the upper end of the revenue range, but towards the lower end, then on EBIT because of the China mix?
+
+
+Look, Sven, I would say still some time so to say to go and of course we are currently in summer of 2022. We do our regular in-depth planning processes. The next one is upcoming in the fall time of this year, as you know, every kind of fall time. And we will let you know as soon as we would feel comfortable to guide you in that direction, so to say, if okay for you dear Sven.
+
+
+	Absolutely. Thank you, Frank. And the other question I just had was on –
+
+
+Maybe moving to -- because we have, I think, eight or nine people in the queue, that we also give them some room to Sven. Sorry for that. If that's okay.
+
+
+	Thank you. We now move to our next question from Ben Uglow from Morgan Stanley.
+
+Please go ahead.
+
+
+Good afternoon and thank you for taking the questions. I had a couple. I really wanted to understand the high-level thinking about some of the comments on slide 16. You made the point, and I understand what you're saying about potentially losing a bit of market share in metro. But could you tell us how you're thinking about that? Is this just a general comment about autonomous policy or is it something more specific that you've actually seen or are seeing in the market? Because obviously, the market share issue in high-speed has arguably been pretty significant over time. So, can you just walk us through that, please?
+
+
+Dr. Jürgen Wilder: Yeah, sure. Sure, Ben, I will try to do that in a few sentences. I mean, if you put it into the context of high-speed, it's good since you also hinted at that, maybe that's a good comparison
+
+actually, because there might be similarities. But there are also clear differences between those two market segments. And I wanted to point out both maybe. First of all, high speed saw a real boom in the years 14, 15, 16, so to say, because there was this catch up needed after that accident, if you remember, in 2011. And back then, the Chinese car builders had to deliver so quickly a large number of high-speed trains that they said, okay, let's take that Western technology that is out there and let's not look too closely even at the well, maybe I say that a little sloppily, at the prices that they charge us. We need to get it done. It was kind of what the overall spirit was there, and we largely benefited from that during those years.
+And then after those years, starting in 16, 17, 18, they said, we don't want to have Western technology all over the place for the next few decades. We want to develop our own platforms. And they did that very rapidly, you could say. And Western companies like us did not really supply systems, complete, let's say, brake systems anymore, but rather the components which we are doing up until today, because we have our local joint ventures in China there. But our overall market share declined in high-speed. And basically that was not really realized if you just looked at our numbers because at the same time, the market for metros was largely increasing during that time. And therefore, with our high market share in metros, that was kind of overcompensating. Now in metros, obviously, they want to do something similar. They want to also go into their own platforms, which are kind of on the way.
+But this process is very different from doing it at high-speed because the metro decision and the buying decision at metros is being done much more locally than the central buying behaviour on high-speed. And for that reason, really, first of all, it takes much longer. And second of all, we believe that we will lose some market share because of that but we also see currently, despite the fact that those platforms are already there, that in the real buying behaviour, we are still in those metros. That's also why Frank said that we did not lose a lot of market share recently, but we expect to lose some of the market share. But we expect that over the course of the next years, we still stay in the 40-percentage range of the market share with metro business considering all of that development that seems to be very reasonable. Of course, we also adjust ourselves to a certain extent locally, because we rethink a little bit our sales channels to make them even a little bit more
+
+local with local partners, and that are all measures to be taken in order to secure a lower market share from today. And this lower market share than what we have today in metro is reflected in those numbers on slide 16.
+
+
+That's extremely helpful. I understand how you're thinking about it. The second question, and I'll cut off then, is just around your comments about slightly lower profitability. If I go back to the time of the IPO or even before and I think about where profits are now, and we don't obviously have your margins, but I would assume your margins have come down quite significantly in China over that period of time. And I guess your comment that we're going to see slightly lower profitability, are you basically saying that we're 80% of the way through the margin downdraft or could we continue to see ongoing significant margin pressure, low to mid-single digit margin deterioration in China? So just calibrate that lower profitability comment, please.
+
+
+Yeah. I would say the margin development in China over the last few years was not significantly down. It was moderate at most, so to say. But what we have to consider, to a certain extent for the future is that the -- I mean, the assumptions also fear that the margins in China in the past were higher than in other regions. Yeah, that's why we're having this discussion, actually, rightfully so. We will see over the course of time of the next whatever, eight years until 2030 or something like that, that those prices and the margins that be able to be achieved in China will come closer to where it is in the rest of the world. I mean, there's no other reason to assume that in the long run, with the Chinese technology becoming more independent, that you can basically assume that all those prices always stay at the level like we had in the last decade. We see those trends already and they will continue a little bit.
+
+
+So asymptotically, so to say, they will move closer to price levels where we see it in the rest of the world. They won't crash or anything like that. That's not going to happen. But they will move closer coming from a level that is still today here and there, some subsystems may maybe a little higher. And that is what we mean by some of the margins will be adjusted also in the future. And when
+
+we said that we will see some volume loss because of the reasons that have been stated before and some margins lost because of what I just said now, that is what I meant before. We need to now look into our portfolio and in our core markets also in Europe and North America and see what portfolio elements are there, how can we replace that in the mid to long term? And that is the task we will do and there are some opportunities there that we go after.
+
+
+And as an additional example, when we talked in the past, also in the aftermarket business, for example in China, that with the start of the COVID situation, there was also kind of a normalization of some effects ongoing like extension of maintenance cycles where the Chinese development more or less, let's say, other kind of normalization towards the global rest of the world levels. And this is --
+
+
+I think normalization is really the key point. Maintenance cycle, that's absolutely right. Like you can imagine that when in the mid of the last decade, everybody was selling also that Western technology, not only us. But the maintenance cycles that went with it and the description of it, of course they were somewhat aggressive and on the safe side in order to also generate the amount of aftermarket business and the Chinese do global benchmarking and they adjust it here and there. And maintenance cycles will be stretched a little bit.
+
+
+	I understand. Thank you very much, Jurgen and Frank, and I'll pass it on to my colleagues.
+
+
+	Our next question is coming from Ingo Schachel from BNP Paribas. Please go ahead, sir.
+
+
+: Thanks for taking the question and also thanks for providing the additional transparency on a lot of the China numbers and for being available for those questions. Just to understand the 2025 revenue expectation on slide 16 a bit better, I think you had already explained in response to Sven’s question. It's based on maybe 5,000 metro units per year. But compared to 2022 rather than your capital markets, I think this year you're probably at 4,000 on the metro side. So, if I
+
+understand you correctly, and just want to make sure that's correct, so you do expect a higher market volume on metro as well as high-speed in 2025 compared to this year, so that the, let's say, revenue decline would be the market share erosion and pricing primarily? And in the context, would also be curious to know whether you can tell us what your comprehensive plan behind this what's give in terms of the share of non-brake revenues that you've included in your numbers roughly. Would you expect more than the majority of revenues in China to be generated with non-brake products by 2030?
+
+Well, this year we have more or less on the metro side, let's say more towards 5,000 that we expect in the metro class, which is still very, very different from what we have seen in the past years. We were between 7,000 and 7,500. So until 2025, yeah, with those numbers we are a little bit on the on the side that we are saying this will continue for the next years. If not, if there might be some uptick because of COVID, maybe more investments will come, there might be some upside opportunity, but we don't assume that right now. On the high-speed side, we assume that the market will grow until 2025 from the level how we see it this year and even how it was last year. This year we see even a lower market than last year, which is exceptionally low on the high-speed side. So, there you are, right. There's the mixture then until 2025, that metro more or less sled has been growing a little bit then also market share loss a little bit. And in the overall, you see those numbers there.
+
+
+ And obviously for non-brake products, would that be the majority of revenues in 2030?
+
+
+ No, we will, especially with the aftermarket business that is very heavy on the brake side, we will still have the majority in China on the brake side, not on the non-brake side.
+
+
+Okay. Thanks. And then a quick one on the pricing that you mentioned that on the east side in rail, it's difficult for you in the current contract to pass through the higher input costs. Can you comment a bit on whether your contracts have changed, are changing, whether under newly
+
+signed contracts you are now in a better position to pass through the input costs also on longer term rail contracts? Or are you still stuck with similar pricing mechanisms that you've had before the current period of cost inflation?
+
+
+You mean in China or generally?
+
+
+No, generally.
+
+
+Generally, because it's a slight difference in China. With what I said before, in China, it would be much more difficult to pass it on because of the overall situation that we have there. In in terms of the rest of the world, and especially in Europe, we need to differentiate really between aftermarket business where we have the better opportunity to increase prices or the short term, which we did already this year. In terms of the contracts that we are doing newly now, of course we are looking at that we have input price escalation clauses. We had that to a certain extent also in the past. That was not uncommon in the rail industry. But it is important to note that even though we might have had that in the contract to a certain share in the past, the language in the contract is very often and that is also usual, that at the end of the contract or at the end of the year, in best case, it will be reassessed according to those indices and there will be a negotiation again, how much of those indices will turn into higher prices. So that is why we have a little bit of a delayed impact. But towards your question, are we considering that especially as a new contract, absolutely yes.
+
+Okay. Thank you.
+
+
+
+
+	We will take our next question from Akash Gupta from J.P. Morgan. Please go ahead.
+
+Yes. Hi. Good afternoon, everybody, and thanks for your time. My first one is also on China. Maybe I wanted to understand who are the companies that are gaining share against you? Can you provide some colour on that? And specifically, I want to know if there is a risk that some of these companies might try to come in Europe and U.S. market and regain some or try to gain some share in these reasons, and how comfortable you are that this is just a China issue and should be contained in there?
+
+
+Sure. Sure. I mean, first of all, there is an effort going on since many years, to be honest. And the process was kind of slow, but now it's maybe a little bit accelerating that those local providers like high tie and others, that they are consolidated more or less into a specific division of CRRC. And those are basically then the competition there, especially also in the breaks market, there's basically a component section that is targeted to be formed, so to say within CRRC. Towards your question, international competition. Well, you know, yeah, 10 years ago or 15 years ago, everybody was saying, okay, the Chinese will come into Europe, into North America, everywhere. It happened to a much lesser extent than what was expected back then, this has certainly something to do with the conservatism of the operators in those countries. They are not really open for, let's say, experiments and say, I don't know how this technically will really work out. We see that especially in North America there was a time a few years ago when in the Metro business the CRRC company was offering more and more and winning some bids. That has been declining since then because of the, let's say, a policy with within the U.S. And in Europe it also has largely not happened. What we have never seen so far is that those brake companies by themselves would go into western car builders, Chinese brakes, and distribute that in North America or in Europe. We see that occasionally on, let's say, HVAC systems or door systems, but never on safety critical bread and butter business for us: brakes.
+
+Thank you. And my second question is for Frank on energy crisis in Europe. Maybe if you can talk to the energy intensity of your business and reliance on gas and how you are preparing the company for the shortage that are looming ahead of us. And maybe any colour you can provide
+
+on the supply chain side that are there any part of supply chain that could be more at risk from the current energy situation in Europe?
+
+
+Thanks, Akash. I mean, first of all, we are of the clear opinion that the biggest hit that would potentially come out of such a scenario would be on the secondary effect side. Basically, customers being hit and that customers can't produce anymore. And we would then also be not supplying in such a situation to our customers anymore or in our supply chain if some of our tier two, tier three, tier four suppliers would be hit, we would face significant difficulties. Our own business, we are not that vertically integrated, that we would have a tremendous dependency on gas supply for our production. If we look, for example, at the Munich overall plant, we don't consume more than 10,000 kilowatt hours a year. So, we are pretty so to say - due to that given vertical integration and also the global spread of our business, which is basically a local for local business - not so much affected.
+We have set up a task force since, I think in the meantime nearly quite two months in order to cope with that situation and to figure out and basically elaborate with all the stakeholders in the company, basically on the procurement side, what the dependency of our suppliers is all about. And we are screening those suppliers. We are having sent out questionnaires to them in order to identify where we would have potential risks. But overall, due to the business structure that we have with extreme high local for local content or local content in the respective countries and that widespread decentralised business, we don't have so much, so to say, a dependency on that, but the big hit could come in such a worst-case scenario on the customer and our own supply chain side.
+
+
+	Thank you.
+
+
+	Our next question is from Vivek Midha from Citi. Please go ahead.
+
+
+Thanks very much, everyone. Thanks for taking my questions. I had another question on slide 16, if I may. Just a follow up, really. You touched on the aftermarket and lengthening of
+
+cycles, but could I just check, is there any assumption here about loss of share in aftermarket, for example, insourcing by Chinese customers on the aftermarket side? And if you could maybe indicate roughly where the aftermarket share in China reaches by the end of the decade. Thank you.
+
+
+We believe that the aftermarket business is, I mean, in terms of market share: Right now, we see that the market in aftermarket because of the low ridership, of course, currently is suffering a little bit. But we believe that the – that we have opportunities in terms of our share of wallet, in terms of aftermarket business. So, at the end of the decade, we believe that the majority of those 700 million that you see here will be aftermarket rather than OE and that means that our aftermarket share then in terms of our revenue is higher than 50%, which is quite remarkable considering our overall aftermarket share that is currently between 45 and 47%, depending on what period you look at. That is what we believe the anchor point and also a stable point in this business in China, we don't see that it is largely replaced by local competition.
+
+
+  Thank you. And if I may, a quick question on trucks as well. So just you mentioned earlier in the presentation that your main problem is not on demand right now. It's on the supply chain. But as you know, given that this is a cyclical business, as you monitor the macro, how are you thinking of any potential cyclical risks into maybe 2023 or 2024? Thank you.
+
+
+Yeah. Thanks for the question. I mean, we do still see solid demand out there currently in Europe and in North America. And we assume that also to last for quite some time. Still, we see that the demand out there in the market is significantly higher than what the production capabilities of the OEMs currently represent. Needless to say, we said since also quite some months that we of course always have to watch carefully as there might be also a certain overheating coming up in the future, but we don't see it currently coming. Of course, we have in North America over the next years or so some greenhouse gas emission regulations that would kick in in two, three or four years ahead from now. And we have to watch very carefully some pre-buy or whatever effects in
+
+the market, but we still see that situation rather solid. We also see that in Europe, for example, the average age of fleet trucks is on a quite solid level. So, no indications yet that anything would significantly happen to the demand side.
+
+
+	Thank you very much.
+
+
+	You're welcome.
+
+
+	We will take our next question from William Mackie from Kepler Cheuvreux. Please go ahead.
+
+
+Hello. Good afternoon and thank you very much for the time and for all of the detailed insights. My first, I'd just like a clarification first, if you could, between slides 13 and 16. Just staying with 16 and RVS in China, numerically, could you share what your previous assumptions were for the revenues through your mid-term planning from 22 through to 25 compared to the projections you've put on to slide 16? That would be the first. And then coming back to the comments about the mid-term margin expectations, again, you know, I guess the mathematically the full year dropout effects of Russia, which was not known at the CMD, is it over 100 basis points? And from what you're suggesting, the mathematical impact of the China dropout is another 100 basis points on the margin. So, I guess I'm just asking for clarification on how you can compensate for that to come even close to the current mid-term 2025 margin objectives. That's the clarification, please.
+
+
+Yeah, thanks. But let me take over that one. First of all, I mean, as we have been presenting our capital market day guidance for 2025 in November of last year, you can already somehow see that we were actually at that time well aware of how 2021 figures will end up. So, to say, definitely you can be assured that we have not pointed towards the future on a basis of something like an average 2015 to 2020, but rather looked already, so to say into 2021 and already some clouds on the horizon in regards to China. Please forgive me if I not detail out now all the
+
+quantitative ingredients of the midterm guidance, but it was definitely higher than, so to say, the 600 that we are currently seeing now looking at 21 actuals. That's the first point.
+The second is, so to say, you are fully right in regards to Russia that so to say needs was not baked in. Clearly, same is true that what I just talked before in regards to the China situation. But as we also Jürgen and myself just outlined some 10 minutes ago, we do see other potential opportunities in order to compensate best possible for these potential shortfalls in the outlook. One is, for example, also that the China impact is also that high and also the Russian impact on the margin is also that high because it appeals all of a sudden so, to say, especially when it looks when you look, for example, at Russia, but also the most recent China reductions that we see. So, what you see reflected in the margin impact is a contribution margin loss to a large extent and fixed cost structures at the same time couldn't be reduced in this similar amount. So that we do expect, of course, once we now have to face a certain reduced growth over time or rather stable revenue development in future, that we also have to look into our fixed cost structure in both markets clearly going into the future. That should make that margin effect not that high, that it ultimately is now just that solitary effect.
+The second point is also that I mentioned before, for example, we discussed about the key effect on our business in quarter one already in May when we said together and we also said that there will be a significant equation effect in rail as well due to that. You cannot fully compensate China. That is clear, but at least those are some indications already. In addition to the business ones that Jürgen mentioned beforehand with the digital businesses, the coupling, et cetera. So, it's definitely there are still other opportunities out there and you can be assured that we give utmost in order to do so.
+
+
+Thank you very much. My actual question would come to pricing. You've differentiated between your ability to price up in aftermarket compared to OE and then also differentiated between the segments and some customers across the OE customer universe. But could you at least throw some colour on the level of price inflation or pricing you are able to achieve quantitatively between
+
+aftermarket and OE? And to what extent it is really mitigating or offsetting the friction or rather the headwind caused by the input cost inflation that you're experiencing?
+
+
+Yeah, sure. The first of all, I would say mid-term, we will fully compensate those price increases. We will not be the ones who are stuck in the middle between higher input prices and basically prices that we charge to our customers. That I am totally convinced of because our business model is such that we can do that. In the short term, though, there is a little bit of a delay how we can tackle that, because when it now comes to existing running contracts, some of which might have some price adjustment clauses that we can pull towards the end of those contracts and others there's also a few that might not have those clauses or they don't have those clauses. And those project contracts are as such that there are clear agreements with our customers. We have to deliver “X amount of something” over a certain time frame and we can potentially adjust if we have those clauses at the end of those contracts. But with some, it will be more difficult. But over time we will of course get new contracts and I'm totally convinced of that we can defend our gross margins that we had in the past with that because that is also goes to the buyers of vehicles. They will need to pay more in the future for those trains. There's no question in my mind and therefore we will be able to pass through that impact. That is a little bit of the dynamic. And of course, on the aftermarket side, we can act much quicker and that's also what we are doing and pulling every opportunity to do that, which we also have done during this year. So that is kind of my view on it. We can assume that through next year, beginning of over next year, so we will be able to recover those cost increases.
+
+
+	Thank you, Jürgen. Thank you, Frank.
+
+
+	You’re welcome.
+
+
+	Our next question comes from Calvin Chen from Credit Suisse. Please go ahead.
+
+   Hi. Thank you very much for taking my questions. And thank you very much for giving us so much details on how you're able to compensate on the profit growth. And I've got a follow up question on that. Actually, on digitization, as you mentioned, it being one of the key areas that you'll be looking at. So, could you give us a little bit more colour on how the actual monetization will be there? Because you mentioned specifically that you're able to set up some new business models and your clients are able to kind of have higher operational efficiency. And also, in terms of the penetration rate of this digitalization offerings in the future, do you expect that to grow? At what speed, given that you mentioned some of your operator customers are relatively conservative in terms of using digitalization offerings? Thank you very much.
+
+
+Yeah. Sure. Let me try to put – to shed some light on that. First of all, you are quite right that this digitalization, especially in the rail industry, is I mean, sometimes if I listen to what is written in the press and things like that, there is opinions out there this is absolutely necessary, which is true. I agree with that. And it goes very quickly now. This industry is rather conservative and the speed of it is somewhat limited, although I am convinced that it will come because it will be necessary. The benefit for the customer out of that which when I'm concerned with our product portfolio, is really on the one hand side lower operational costs because we cannot only do condition-based maintenance with smarter subsystems that we have. And I refer to that in a minute or in a second how this is going to be supported with our share with Nexxiot. But it's also basically preventive maintenance that we can foster with that.
+
+
+And by the way, with data that we collect also maybe out of the environment of the train and especially of the infrastructure, we can generate additional business models in order to generate benefits for the customer. What we have done with the share next year and especially with the cooperation agreement that we have with Nexxiot, is that we are able now to connect about 100 to 150,000 assets a year that we throw into the market with this next year system to upload then data that we collect from our systems into the cloud. This cloud is scalable to an extent that we don't have real limits to do so. And we have in the market about a million, 1.5 million existing assets that
+
+over time we can also connect towards the system and therefore we have an infrastructure that we can generate an interface to our customers. So, it is much easier to make recommendation also on maintenance cost savings to our customers in terms of maintenance regimes. Will that growth.? That was also the other part of your question. Well, you know, this will not explode over the course of the next year. We are having a small amount of digital business right now. But we believe that over the course of the next, let's say, 4 to 5 years, we can generate a couple of hundred million business out of it, which is rather high margin business. And it's one of those, let's say, elements that is helpful to compensate for high margin Russian and China business that might decline a little bit. But it's one of those.
+
+
+Sure. Thanks. Thank you very much. If I may just squeeze in a very last quick one on the truck in specifically that you share a lot on China, but could you give us a bit more colour on the
+U.S. market growth and dynamics, especially for 2023? That will be very helpful. Thank you very much.
+
+
+Yeah, of course, Calvin. I mean, let me first start before looking into 23. So, what we expect for 2022 is currently a truck production rate of 555,000 vehicles so to say. For America's only out of that is 400,000 is the current market expectation for North America, which is more than 10% growth compared to what we have seen last year. So, the market is, as I said, quite rock solid. And for next year, the last expectations that we have considered even a slight growth towards the year after. So maybe another four or five percentage points of growth that we should be able to see than in 23.
+
+
+	All right. That's very helpful. Thank you very much for the time.
+
+
+	You're welcome, Calvin.
+
+
+	We'll take our next question from Marc Zeck from Stifel. Please go ahead.
+
+
+
+Hello and happy Friday. I'm afraid I have just one small question left for me. Could you just clarify if you incorporate any revenues from the digital automatic coupling in the 2025 guidance or whatever revenues would flow from that is only – will only happen after 2025. Thank you.
+
+
+Yes. I mean, I can share that with you. I mean, what we have done is we have, you know, the digital automated coupler in the freight business is, of course, something that I'm convinced of it will come over the next years and until the end of the decade because just for the simple reason that the rail freight business in Europe is not sustainable and cannot really, I would almost say, survive to the cost structures compared to, let's say, other means of transportation if that does not come. And it is the absolute political will that more freight would go into rail, and if that goal is not completely questioned, then it needs to come. That's why I believe this is the time that it will come and what we have done in our planning in the past, we have considered that scenario and then we have taken a good chunk out of it because we are saying, okay, there is of course a conservatism and a probability that it still might not come and we have taken a chunk out of it again. And so, there's a portion of it is included and a portion of that is not included if it comes because it's kind of a black and white consideration.
+
+
+	Okay. That was a long answer. So yes or no fashion?
+
+
+Some in there. Yes. Maybe I should have put it that way to reiterate. Yeah.
+
+
+	We will take our next question from Vlad Sergievski from Bank of America. Please go ahead.
+
+
+Gentlemen, good afternoon and thank you so much for spending time and explaining all those things for a change I'll ask a question on your slide 10, which is detailing the negative impact from Russia. I mean, it's 70 million negative EBIT versus the original guidance. It looks like
+
+the contribution margins are very high there. And that effectively would suggest to me that Russia is loss making for you this year. Can you confirm that? Can you give us an idea if it's loss making, how loss making it is and then what costs actions you could take to either complete revenues there or just assume the region is not losing money anymore? So that's the first part.
+
+
+Yeah. Vlad, Thank you. Thank you very much. First type of thesis is absolutely correct. It's very accretive margin or has been a very accretive margin business for Knorr-Bremse, basically number two behind China. So very, very good market with strong contribution margins. And also overall, good EBIT. Second hypothesis is not correct. It's we think that for the quarter two, quarter three, quarter four, which are the ones that are affected by the war, quarter one was not really affected, but the three other quarters have been affected. We expect somehow around zero result overall or at least a single digit million EBIT out of the remaining business towards year end. That's all but not loss making. And the measures, of course, I mean, first of all, countermeasures that we have been taking was first the deconsolidation of the joint venture. We sold the joint venture end of May to the joint venture parties. And that basically takes out complete fixed cost out of the system. For others, it's much more difficult. For example, on the rail side, we have reduced in the meantime nearly 100 people out of our locations in Russia and potentially more to come. And so according to that, you do have, of course, certainly to counter still that contribution margin loss.
+
+
+Thanks very much, Frank. It's all clear and very quickly on cash flow. You still have a pretty wide range for the full year guidance, three to 500. What are the key moving parts which could swing it towards the bottom, towards the top end in the second half? And that's my last one. Thank you very much.
+
+
+Yeah, you're welcome. Of course, somehow free cash flow is always also fuelled by the quality of earnings that you would have in the P&L. So, it's, of course, depends on the EBIT as well as it does depend on the usage of assets or the increase of assets, so working capital is the second big determinant. And that's why this range is rather bigger, because it has two ingredients
+
+who are in themselves kind of volatile. That is the reason for the rather bigger range. And I would say if we come in line somehow with our EBIT margin target for the full year and if we get our plans to reduce working capital, especially inventories, I have to admit, but also getting the cash in for accounts receivable, but mainly inventories, then we should also be rather in the mid-range. If also in times like these, some of the customers decide not to pay towards year end which you're not really – which you can't really force them into paying, then we would be rather on the lower side of the guidance. If all payments completely come in, as they would be contractually obliged, then we could even be higher, so to say.
+
+
+	That's great. Very good power. Thank you, Frank. And good luck.
+
+
+	You're welcome. Thank you very much for the best wishes. Thank you.
+
+
+	We will take our next question from Philippe Lorrain from Berenberg. Please go ahead.
+
+
+Yes. Thank you very much. I just wanted to follow up a little bit on the on what you said on the RVS long-term margin. So, if I put everything together, the dilution from the effects coming in China, Metro Autonomous Policy and so on and so forth, plus Russia on one side, the accretive effects from the digitalization offering digital couples and so on and so forth. And how would you think right now versus the guidance the drug provided for 2025 or 18 to 19 and a half percent EBIT margin? And bearing in mind that you have called that aspirational so far, would you consider rather the high end to be aspirational or also the low end?
+
+
+First of all, thanks, Philippe, for your question. I mean, it's always so to say much simpler to talking long term, to think maybe about mid terms or midpoints of the guidance. I think that that helps it a lot. I think it's too – much too early to two or three years ahead of time to already discuss about potential levels for the upper end or the lower end regarding all the uncertainty that is still in the years to come and given a potentially reduced starting point, as we are seeing it currently in
+
+2022. So please forgive us that we now not refer really to the range elements of a 2025 year as we're still in 2022 with certain uncertainties. Let me put it this way.
+
+
+	Okay. Thank you.
+
+
+	Yeah, thank you, Philippe.
+
+
+	We will take our next question from Philip Taylor from Deutsche Bank. Please go ahead.
+
+
+: Yes, good afternoon and thank you for taking all the questions. If I may, just coming back on that last question, if I could maybe ask it a slightly different way. You've talked a couple of times about the potential opportunities to recover the impact of the negative impacts on the margin. Could you maybe give us a sense of how much of those opportunities are cost focused versus revenue growth focused? That would be my first question, please.
+
+
+I mean, just summarizing what Jürgen and myself have said in the last hour and adding the knowledge of what we talk about on a regular basis and also upcoming in the next planning process on cost potentials: I would say we basically talk business opportunities to a large extent, so 70 or 80%. I would say if you need a quantitative kind of range, I would say it's about business opportunities and revenue gains with the relevant contribution margins and the minor cost impacts. But as I said before, we have to do something in certain markets to further also create cost potentials going forward. So, 70-80% to 20-30%, I would say it would be maybe the balance.
+
+
+Thanks. Thank you. And just second, quick clarification regarding the initiatives to recover the inflationary headwinds. Do you expect those to be fully recovered by the end of 23, fully in back in the margin by 2023?
+
+
+	Not sure whether I fully understood the question.  You – can you maybe –
+
+
+
+Yes. Sorry. The inflationary pressures you've talked about, you expect, I think a significant amount will come by price increases and the rest with cost measures with your customers getting, I guess, other revenue cost measures. Do you expect that all to be concluded and achieved by 2023? By the end of this year, it's so in time for 2023?
+
+
+No. No, I don't think so. But also, inflation I think the end is not reached by year end 2022. So, we still see on the inflation side not the full impact of what's currently ongoing. If I make just one example is like energy costs, like electricity or even gas. We do have contracts. We feel pretty safe in regards that we know exactly what's in the 300 million for 2022, but we already now know that for 2023 we see an additional hit year over year out of electricity and out of gas, for example. So, there is continuous efforts still needed in 2023 to achieve that exactly same result that somehow we have done this year. But additionally, also further price measures will kick in then in 2023, as Jürgen also outlined before, some price increases you only get with a certain time delay. Same is true also on the truck side, also clear. So, I don't think that it's – it would be, so to say, easily gone and offset by 2023, without any additional efforts.
+
+
+Most of I mean price measures, of course, now increasingly as time goes by, will be implemented. But some of it might be spilled into 24.
+
+	Understood. Thank you.
+
+
+You’re welcome, Philip,
+
+
+	We'll take a follow up question from Sven Weier from UBS. Please go ahead.
+
+
+Yeah, two quick follow ups, please. The first one is on slide number 13 and the right-hand side of it where you show the headwinds and the price recovery. I was just curious, when you
+
+make kind of a percentage breakdown, how much of the price increase, green bar, blue bar that you have in the first half already? And how much have you budgeted for the second half and how is it on the headwinds? Is that more equally split between the two halves?
+
+
+Yeah. Thanks for the questions, Sven. Needless to say, I was expecting that earlier. I mean, I would say in regards to the inflationary effects. Like I said as an answer to Philip just before, I do think that maybe it's a forty/sixtyish: 40% in the first half of the year, 60% in the second half of the year as far as inflation effects go. So, 40% / 60%.
+In regards to pricing and cost measures, it's rather a 30% / 70%. Let me put it this way. Which leads to the fact mathematically that in the first half of the year, we still have on the overall bottom line profitability side, still a negative inflationary impact in, so to say, which we should be able to partially overcompensate in the second half of the year, which then overall, which is this slide number 13 should be able to completely offset it with all measures ahead. So, taking everything together for the full year, it should be offset.
+
+
+Thank you, Frank. And the last question I had was just on the transition to IFRS, I was just wondering how much more you have to go there and how much maybe more resources you have to put in place and then maybe something you have to still catch up from the time before you joined because, you know, one example for me was the free cash flow, right? It was -70 and you preannounced. Now it's -35. So, I think it still has something to do with that transition from the German GAAP to IFRS. And is there still lots of work to be done? What you wish for more resources to do this or how should we think about this?
+
+
+Yeah, thanks. Thanks, Sven, for the question. First of all, in Eastern around Eastern time, we have completed the complete rollout of IFRS in the ERP systems. Very grateful for that achievement to the whole team. And as you know, much more than just the finance guys, so to say being involved there in the end. So, it's a great achievement that this company has done. Also, it did cost quite some money but we did it and done first of all, is now after that. Is the everything
+
+perfect? Potentially not, but we are on a very good way. I think we have gained over the last two year significantly better grip and how to say better governance over the systematics of IFRS around the globe was established so I'm pretty confident and pretty happy with the status achieved. Not everything perfect yet, but we will also invest in future. We clearly know what we want to do in terms of capacity and knowledge and skill set, invest in the future, in the accounting functions, but also in stakeholder functions around accounting, pure accounting, for example, also in treasury when it comes to hedge stuff, hedge accounting and things like that. So pretty happy. Not everything perfect yet. And we have a finance agenda towards 2025 with 13 important topics, how we want to derive finance organization to an excellent one and clean is clear. Hope that's fine for you, Sven.
+
+
+	Yeah, understood. Thank you, Frank. And have a good summer all.
+
+
+	Yeah. You too, you too. All the best.
+
+
+	Thanks.
+
+
+Thank you.
+
+
+	There are no further questions at this time. Andreas Spitzauer, at this time, I will turn the conference back to you for additional or closing remarks.
+
+
+Yeah. Thank you very much, Elaine. Yeah. Thank you very much for your time. And we wish you a great weekend in case you didn't have some holiday break, enjoy it. And then when you are back, we are more than happy talking to you again. And thank you.
+
+
+	This concludes today's call. Thank you for your participation. You may now disconnect.
+
+
+
+

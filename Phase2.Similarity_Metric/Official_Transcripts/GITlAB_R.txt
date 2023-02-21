@@ -1,0 +1,159 @@
+
+Thank you for joining us today for GitLab’s second quarter of fiscal year 2023 financial results presentation. GitLab’s co-founder and CEO Sid Sijbrandij and GitLab’s Chief Financial Officer, Brian Robins, will provide commentary on the quarter and fiscal year.
+
+Please note we will be opening up the call for panelist questions. To ask a question please use the chat feature and post your question directly to “IR Questions” using the drop-down menu.
+
+Before we begin, I’ll cover the Safe Harbor statement:
+
+
+During this conference call, we may make forward-looking statements within the meaning of the federal securities laws. These statements involve assumptions and are subject to known and unknown risks and uncertainties that could cause actual results to differ materially from those discussed or anticipated. For a complete discussion of risks associated with these
+forward-looking statements in our business, we encourage you to refer to our earnings release distributed today and our SEC filings, including our most recent quarterly report on Form 10-Q.
+
+Our forward-looking statements are based upon information currently available to us. We caution you to not place undue reliance on forward looking statements, and we do not undertake any duty or obligation to update or release any revisions to any forward-looking statement, or to report any future events, or circumstances, or to reflect the occurrence of unanticipated events.
+
+In addition, during this call, certain financial performance measures may be discussed that differ from comparable measures contained in our financial statements prepared in accordance with
+U.S. generally accepted accounting principles referred to by the Securities and Exchange Commission as non-GAAP financial measures. These non-GAAP measures are not intended to be a substitute for our GAAP results.
+
+We believe that these non-GAAP financial measures assist management and investors in evaluating our performance and comparing period-to-period results of operations as discussed in greater detail in the supplemental schedules to our earnings release. A reconciliation of these non-GAAP measures to the most comparable GAAP financial measures is included in our earnings press release submitted to the SEC.
+
+
+These reconciliations together with additional supplemental information are available at the Investor Relations section of our website. A replay of today’s call will also be posted on the website.
+
+I will now turn the call over to GitLab’s co-founder and Chief Executive Officer, Sid Sijbrandij.
+
+Thank you for joining us for our fiscal year 2023 second quarter earnings presentation.
+
+
+We continue to see strong momentum in our business, and believe that our second quarter results indicate that the market is embracing our DevOps Platform leadership position. We also executed well in the quarter, demonstrating our ability to achieve high growth with increasing operating leverage.
+In the second quarter of fiscal 2023 we exceeded our guidance with revenue of $101.0 million dollars. This represents revenue growth of 74% year over year. Our dollar based net retention rate exceeded our reporting threshold of 130%. This remains best in class, and consistent with our track record as a public company.
+Our second quarter results also continue to demonstrate the attractive unit economics underlying our business. Our non-GAAP operating margin improved by 1,500 basis points year over year, and we remain committed to growing in a responsible manner.
+Every company needs to be great at developing, securing, and operating software – or they will be disrupted. This core capability – what’s called DevOps – is a must-have in any macroeconomic environment. Enterprises are navigating economic uncertainty while still needing to embrace the imperatives of digital transformation, cloud migration, and app modernization. Our customers choose GitLab to accomplish more with the people they already have. Delivering software fast and efficiently in a secure way is essential for success. Our One DevOps Platform empowers them to do exactly that. With one data model and a single interface we create a more efficient and captivating user experience. With GitLab, everything from planning, building, securing, deploying, and monitoring software all resides in a single application. This mission critical software helps companies eliminate the costly integration work you have when using point solutions. It also allows them to create and release software faster, while strengthening software security and compliance.
+This combination drives business and technology transformation.
+
+There are three main topics that I will cover today. First, I will explain how we enable all types of customers to realize the promise of DevOps by moving to a platform approach. Second, I will discuss how we are leading the industry in product innovation, and highlight recent enhancements from our major GitLab 15 launch. Third, I will share our view of GitLab’s value proposition and why we are well-positioned to succeed.
+Our differentiation starts with our core value of Iteration, which in turn drives our rapid pace of innovation. GitLab is far ahead in the comprehensiveness of its DevOps platform. Every month on the 22nd, we ship a new version of GitLab with many new features and improvements.
+We’ve done this for 130 months in a row. Our innovation is also driven by the open core nature of GitLab. Which means our customers and users contribute to the capabilities of the platform, enabling us to drive even more differentiation and value for all of our customers. Every quarter hundreds of improvements are contributed by our customers.
+Our differentiation also extends to security and compliance. In today’s environment, security is a business imperative. We believe we have the most comprehensive security offering in the market, enabling companies to truly adopt DevSecOps practices. With GitLab, security is integrated throughout the software development and deployment process. Our capabilities include Dynamic and Static Testing, vulnerability management, dependency and container scanning, and coverage-guided fuzz testing, which enables customers to find vulnerabilities that other QA processes cannot find.
+Organizations shouldn’t have to trade off compliance requirements with their speed of innovation. Developers should be able to easily verify the compliance of their code without leaving their workflow. In GitLab, this ability to perform compliance is automated and resides within the platform. This removes the need for compliance managers to require developers to context switch among different point solutions, losing productivity and efficiency in the process.
+We believe the future of compliance requires automation. When you create software today, you don’t write all of the code yourself. Instead, you have a supply chain of external dependencies like open source libraries that are bundled into modern software development. However, a problem arises with so many dependencies. There’s no way to accurately and efficiently check all of it manually for security vulnerabilities. This can have devastating effects when failing to identify security threats, roll back vulnerable code,
+
+and fix and redeploy that code. This manual process can translate into significant financial and brand damages given the existing threat landscape. The only effective pathway forward is to automate that process, making the cycle time from identifying a vulnerability, rolling back code, and re-deploying it shorter and shorter.
+
+GitLab makes that level of automation seamless for our customers. We have the most advanced offering in the market as validated by customers like HackerOne and Deutsche Telekom. They use our comprehensive capabilities to secure their software supply chain and make their security and compliance checks more efficient. Our differentiated value to customers is that this security is integrated into our product; it is not bolted on as an afterthought.
+
+GitLab’s comprehensive security offering, with so many features, allows customers to consolidate their spend. They no longer have to integrate with so many other security vendors. More importantly, they can create more secure software by shifting security practices earlier in the development process, performing threat and vulnerability analysis as developers create the code, not after they have deployed it. The earlier you integrate security, the easier it is to address potential concerns, so you become more productive, and you can enforce it for every project and every change. Furthermore, because all of the security checks that are happening on the same platform, customers can prove that they performed all of the security tests for that code. With a Do-It Yourself, or DIY DevOps approach, that requires stringing together disparate point solutions, a similar endeavor would require much more personnel and resources.
+Next I would like to discuss the new advancements in GitLab 15, our latest major release. We focused on three main areas of innovation across the DevOps lifecycle.
+The first area of innovation is Enterprise Agile Planning. When we talk to customers, a primary pain point we hear is that existing point solutions lead to a poor user experience. While they may meet the needs of the individual developer persona, they fall short of addressing the needs
+
+of the broader organization. As an end-to-end platform, GitLab is uniquely positioned to integrate planning with execution in a seamless manner. We enable business leaders to drive their vision while empowering DevOps teams to deliver value more efficiently and effectively by improving how they collaborate.
+
+
+The second area of innovation is Continuous Security and Compliance. Our customers are looking to solve the pain point of a fragmented security experience, which slows down development cycle times, and creates more risk. They don’t want to make a false tradeoff between speed and security. They want security and compliance to be embedded, end-to-end, across the software development lifecycle, without sacrificing speed.
+
+In GitLab 15, we’ve introduced new capabilities around Software Supply Chain Security, advanced security scanning, streamed audit events, and more comprehensive governance.
+
+The third area of innovation involves our use of Artificial Intelligence and Machine Learning. This area is particularly exciting because it makes our product better and enables us to broaden the appeal of our platform to even more use cases and personas.
+
+To illustrate how we are leveraging AI to improve the product, we now have a feature where GitLab will suggest to developers who should review their code. They can find an expert who can provide better feedback, which creates more efficiency, as well as higher quality, more secure code.
+
+To invite more personas to the platform like Data Scientists, we are also integrating the DevOps process with the MLOps process. We see this as the next big step in consolidating historically separate development workflows. Today, machine learning is an essential part of modern application development. Every significant application is going to have both code and models. Those models go through a lifecycle themselves, which includes training, testing and deploying. Data scientists and engineers are critical stakeholders in this process, yet traditionally, they have been excluded from the collaboration and efficiency benefits of DevOps and automation, relying on either manual processes or a bespoke toolchain that they need to maintain.
+The benefits of our platform will help data scientists and engineers in a number of ways – from collaboration with other teams, planning and managing project sprints, version control for
+automated workflows, streamlined testing and validation, and simplified infrastructure management across multiple cloud providers.
+We are excited about the significant amount of innovation on our platform: from Enterprise Agile Planning, to Security and Compliance, to AI and Machine Learning.
+
+Finally, I would like to address why our One DevOps Platform value proposition is mission critical and resonating with customers in the market. From speaking with customers and prospects, we’ve assessed that companies are looking to achieve five main outcomes from their DevOps IT budget:
+They want to consolidate their software spend;
+They don’t want to spend money and engineering time integrating tools;
+They would like to get more productivity from the current people they have already hired;
+They would like their DevOps process to better enable their entire organization to deliver value to their customers faster; and
+They would like to generate more revenue by releasing customer-facing applications faster.
+
+GitLab provides the solution to achieve ALL of these outcomes. Our One DevOps Platform helps companies reduce costs by consolidating from many vendors down to one. It frees up existing IT personnel by solving integration challenges with digital duct tape. The team tasked with maintaining DevOps tools can now focus on adding value to the business. In addition, moving to a platform allows for closer collaboration between development, security, and operations teams with fewer context switches, which increases productivity and user satisfaction. What GitLab delivers is a faster cycle time, a faster execution on cost savings initiatives, and the opportunity for revenue acceleration. To quantify these benefits, based on a study conducted by Forrester Consulting and commissioned by GitLab, our customers saw a 407% return on investment within three years of deployment of our DevOps platform.
+Having a comprehensive platform that solves so many problems while at the same time saving money is a superpower in economically challenging times.
+This value proposition translated into a number of strong business highlights in the second quarter. I’m proud to share that we added 696 net new base customers.
+Let me give you examples of a new logo win, an uptier, and a customer expansion:
+
+
+First, a North American-based global leader in cross-border peer-to-peer payments needed a DevOps platform that streamlined and automated processes, reduced cycle time, and provided the ability to set and enforce organizational policy across every stage of their development process. From a GitLab proof of value engagement, they realized a 30% efficiency improvement in building, securing, and deploying versus their previous tool chain implementation for new and changing applications. As a result, they became a GitLab SaaS Ultimate customer, replacing a previous vendor’s implementation.
+
+
+Second, a North American consumer research, data, and analytics firm who has been a GitLab Starter customer since 2015, merged multiple business units which had completely siloed DevOps tools. A new corporate initiative to move to the cloud catalyzed the need to quickly consolidate onto a single platform to standardize their entire DevOps lifecycle to increase operational efficiencies, decrease cycle time, and increase developer productivity. By migrating to GitLab, they immediately saw a 3x increase in productivity due to less maintenance time and fewer costs with a fully integrated GitLab SCM and CI, and subsequently upgraded to Premium.
+
+Finally, a North American-based motor vehicle manufacturing company was looking for an alternative to their existing DevOps products because their workloads far exceeded the scaling capabilities of those tools. After working closely with GitLab, we demonstrated our unique ability to scale to meet their volume needs while also enabling them to consolidate their tools. As a result, the customer expanded in the second quarter, increasing their number of Premium licenses by 40%.
+
+Another key strength of our go to market value proposition is our relationship with cloud hyperscalers. They view GitLab as an accelerant for customers to move to the cloud faster. We are also pleased with the number of higher-level strategic conversations happening at the
+C-level, addressing how GitLab can help solve their business problems. In fact, in Q2 we were named as Google Cloud Partner of the Year for Application Development, following up from last year when GitLab was awarded Google Cloud Partner of the year for DevOps.
+
+A powerful example of the result from these alliances is KeyBank, one of North America’s largest financial services companies. KeyBank recently formed a partnership with Google
+Cloud Platform, or GCP, to move workloads from data centers to Google Cloud. In addition to their cloud migration effort, app development and modernization are key parts of their digital transformation goals. Their employees embrace a Continuous Integration and Continuous Deployment software development model, what the industry calls CI/CD. They chose GItLab to bring together their DevOps process, making an initial purchase of several hundred Ultimate licenses.
+
+We see this type of close alignment with other cloud providers, including AWS. In the second quarter, GitLab and AWS worked together to help a major airline manufacturer significantly reduce the risk of loss and downtime that was required for their business critical development needs. GitLab is now critical to this customer’s developer team success. They have now standardized us across thousands of users, and crossed the million dollar threshold as a customer.
+
+These customer success stories, in combination with the growth of our alliances and partnerships, clearly show that the market is moving towards a platform approach to DevOps. We recently published our 6th annual State of DevSecOps report, a landmark research study of over 5,000 DevOps professionals from around the world. Among the many findings, we see a continued need for tool consolidation. 85% of DevOps teams use between two and 10 tools.
+And, with 69% of survey participants saying they’d like to consolidate their toolchains, the need for a DevSecOps platform is clear.
+
+In summary, I am very pleased with the quarter – we continue to innovate and create new capabilities for an expanded set of customers; we continue to demonstrate the promise of a platform over a point solution approach; we continue to show that GitLab is mission-critical; and, we continue to believe that we are early in a large and growing market. Our Q2 results demonstrate that we’re well-positioned to drive durable growth with improving unit economics. I am grateful to all our team members, partners, the wider GitLab community, and customers who contributed to our results.
+
+I also want to thank Eric Johnson, our CTO. He has resigned effective October 1st, and will stay on as an advisor for 6 months. Eric has been with GitLab since 2017, and I want to thank Eric for our partnership over the last 5 years, and wish him the best of luck.
+I’ll now turn the call over to Brian Robins, GitLab’s Chief Financial Officer . . .
+
+
+Thank you Sid, and thank you again to everyone joining us. I would like to spend a moment reviewing the key characteristics of our business model, and what we are seeing in the macro environment. Then, I will quickly recap our second quarter financial results and key operating metrics, and conclude with our guidance.
+
+
+
+Our platform delivers a strong ROI and positive business outcomes. Customers continually tell us that they strongly support our pricing model. Our platform is offered with a free version and two paid subscription tiers, which we call Premium and Ultimate. Our paid tiers are priced per user with different features per tier. Every user within an organization is on the same plan, which helps to keep our business model transparent and easy to understand.
+
+Our second quarter results continue to demonstrate our ability to drive high growth with improving incremental margins. Fueling these results are a number of key aspects of our business model that I would like to discuss briefly. These include the predictability of a subscription model that provides high visibility; a platform sale rather than a point solution; a diversified customer base across industry verticals, customer sizes, and geographic regions; a short implementation cycle; and an established and well-documented ROI.    In addition, we price our platform in US dollars, so we have no currency impact. These attributes contribute to the results we are seeing. To illustrate this, customer cohorts from 7 years ago are still expanding today.
+
+Despite the volatility in the macroeconomic environment in the second quarter, we have not seen any impact to our business. Customers increasingly recognize the need to address multi-year digital transformation challenges. The current environment is not slowing down customer decisions, nor elongating our sales cycles. Buying cycles have actually sped up across all the business, and we continue to see strong win rates.
+
+We are also happy with how we executed on hiring. We added a similarly strong number of new team members as we did in 1Q, and we experienced lower attrition. We view the uncertainty in the macro economy as a benefit for hiring new team members, and we currently have over 225 open positions that we are looking to fill.
+
+Next, turning to the numbers. Revenue of $101.0 million this quarter represents an increase of 74% organically from the prior year. We added the largest number of base customers ever in a single quarter. We ended 2Q with over 5,800 customers with ARR of at least $5,000, compared to over 5,100 customers in the prior quarter, and over 3,600 customers in the prior year. This represents a year-over-year growth rate of approximately 61%. Currently, customers with
+>$5,000 in ARR represent approximately 95% of our total ARR.
+
+
+
+We also measure the performance and growth of our larger customers, who we define as those spending more than $100,000 in ARR with us. At the end of the second quarter of FY 2023, we had 593 customers with ARR of at least $100,000, compared to 545 customers in the prior quarter, and 383 customers in the second quarter of FY 2022. This represents a year-over-year growth rate of approximately 55%.
+
+As many of you know, we do not believe calculated billings to be a good indicator for our business, given that prior period comparisons can be impacted by a number of factors, most notably our history of large prepaid multi-year deals.   This quarter total RPO grew 76% year over year to $362 million.
+
+We ended our second quarter with a Dollar-Based Net Retention Rate consistent with the previous quarter. This exceeded our reporting threshold of 130%, which remains best-in-class and consistent with our track record as a public company.
+
+The Ultimate tier continues to be our fastest growing tier, representing 39% of Annual Recurring Revenue for the second quarter of FY 2023, compared with 29% of Annual Recurring Revenue in the second quarter of FY 2022, and continuing to grow in excess of 100%.
+
+Non-GAAP gross margins were 89% for the quarter, which compares to 90% in the immediately preceding quarter and 88% for the second quarter of fiscal year 2022. As we move forward, we
+
+are estimating a moderate reduction in this metric due to the rapid year-over-year growth rate of our SaaS offering.
+
+We saw improved operating leverage across the business this quarter, largely driven by revenue outperformance. Non-GAAP operating loss was $27.0 million, or (27%) of revenue, compared to a loss of $24.8 million, or (42%) of revenue in Q2 of the last fiscal year. Q2 FY23 includes $5.0 million of expenses related to our JV and majority owned subsidiary. We also incurred a $2.3 million cancellation fee in Q2 as a result of our decision to postpone Contribute, our annual GitLab team event.
+
+
+Operating cash use was $36.3 million in the second quarter of FY23, compared to $17.1 million use in the same quarter last year.
+
+In summary, we are pleased with our performance during the second quarter of FY 2023 on both the top and bottom line and believe our business is set up for continued strength. We monitor the key leading indicator metrics of our business, and we are not seeing any softening of these indicators.
+
+Now let’s turn to guidance:
+
+
+For the third quarter of FY 2023:
+We expect total revenue of $105.0 million to $106.0 million, representing a growth rate of 57% to 59% year-over-year.
+We expect a non-GAAP operating loss of $27.5 million to $26.5 million.
+And, we expect a non-GAAP net loss per share of $0.16 to $0.15 assuming 149 million weighted average shares outstanding.
+For the full year FY 2023:
+We now expect total revenue of $411.0 million to $414.0 million, representing a growth rate of 63% to 64% year-over-year.
+We expect a non-GAAP operating loss of $111.5 million to $108.5 million.
+And, we expect a non-GAAP net loss per share of $0.67 to $0.64 assuming 148 million weighted average shares outstanding.
+
+On a percentage basis, our new annual FY2023 guidance implies non-GAAP operating margin improvement of approximately 1,250 basis points year-over-year at the midpoint of our guidance ranges. Over the longer term, we believe that a continued, targeted focus on growth initiatives and scaling the business will yield further improvement in unit economics.
+
+A few more details on guidance and our model. We now estimate that we will incur approximately $17 million of incremental expenses related to the resumption of travel and in-person customer and marketing events, as well as new public company costs that were not incurred in the first three quarters of FY22. In addition, we forecast approximately $20 million of expenses related to JiHu, our China joint venture. This compares with $12 million of combined JiHu and Meltano costs in FY22. I’d like to note we have deconsolidated Meltano, our majority owned subsidiary.
+On the Finance team front, Dale Brown, our Principal Accounting Officer, has shared his intentions of retiring next year. I want to thank Dale for all his contributions over the last 3 years and allowing for a smooth transition.
+
+As Sid mentioned earlier, we believe we are addressing a very substantial market opportunity that is currently underpenetrated, and that we're well positioned to capture an outsized portion of it. There has been no philosophical change in how we run the business to maximize shareholder value over the long term. We continue to be focused on growth while driving improvements in the unit economics of our business.
+
+With that, we will now move to Q&A. To ask a question please use the chat feature and post your question directly to “IR Questions.” We are ready for the first question.
+
+
+

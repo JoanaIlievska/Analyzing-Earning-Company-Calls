@@ -1,0 +1,137 @@
+Good Morning, ladies and gentlemen and thank you for waiting. At this time, we would like to welcome 
+everyone to BBVA Argentina’s third quarter 2022 results Conference Call.
+We would like to inform you that this event is being recorded and all participants will be in listen-only mode 
+during company presentation. After company remarks are completed, there will be a question and answer 
+section. At that time further instructions will be given. Should any participant need assistance during this call, 
+please press *0 to reach the operator.
+First of all, let me point out that some of the statements made during this conference call may be forwardlooking statements, within the meaning of the Safe Harbor provisions found in Section 27A of the Securities 
+Act of 1933 under US Federal Securities Law. These forward-looking statements are subject to risks and 
+uncertainties that could cause actual results to differ materially from those expressed in the forward-looking 
+statements. Additional information concerning these factors is contained in BBVA Argentina’s Annual report 
+on Form 20-F for the Fiscal Year 2021, filed with the US Securities and Exchange Commission.
+Today with us we have Mrs. Carmen Morillo Arroyo, CFO, Mrs. Ines Lanusse, IRO and Ms. Belen Fourcade, 
+Investor Relations.
+Ms. Fourcade, you may begin your conference.
+Good morning everyone, and welcome to BBVA Argentina’s third quarter 2022 earnings Conference Call. 
+Today's webinar will be supported by a slide presentation available on our investor relations website on the 
+Financial Information section.
+Speaking during today’s call will be Inés Lanusse, our Investor Relations Officer, and Carmen Morillo Arroyo, 
+our new Chief Financial Officer, who will be available for the Q&A session.
+Please note that starting January first 2020, as per Central Bank regulation, we have begun reporting results 
+applying hyperinflation accounting pursuant to IFRS Rule IAS 29. For ease of comparability, 2021 and 2022
+figures have been restated to reflect the accumulated effect of the inflation adjustment for each period 
+through September 30th
+, 2022.
+Now, let me turn the call over to Inés…
+Thank you Belen, and thank all of you for joining us today.
+As we are all aware, the combination of an unstable global context, the difficulties of our country to correct 
+current macroeconomic distortions and to meetthe established objectives in the loan agreement with the IMF, 
+local market volatility continues, especially in the FX markets and local currency debt markets. A high 
+uncertainty persists about the future development of economic policy. 
+Being this said, Argentina has been able to continue with its economic recovery, although within a context that 
+presents great challenges, with a sustained high inflation and a capped foreign exchange rate.
+BBVA Argentina has a corporate responsibility with society, characteristic of the Bank’s business model, 
+which encourages inclusion, financial education and supports scientific research and culture. The Bank works 
+with the highest integrity, long-term vision and best practices, and is present through the BBVA Group in the 
+main sustainability indexes.
+Moving into business dynamics, as you can see on slide 3 of the webcast presentation, our service offering has 
+evolved in such a way that by the end of September 2022, retail digital client penetration reached 62% slightly 
+increasing from a year back, while that of retail mobile clients reached 55% from 52% as of the same period of last year. The response on the side of customers has been satisfactory, and we are convinced this is the 
+path to pursue, in the aim of sustaining and expanding our competitive position in the financial system.
+Retail digital sales have increased from 79.6% in 3Q21 to 83.4% of units and represent 55.7% of the Banks 
+total sales measured in monetary value, vs 52.8% in 3Q21. 
+New customer acquisition through digital channels reached 66% in 3Q22, from 67% in 3Q21.
+The Bank actively monitors its business, financial conditions and operating results, in the aim of keeping a 
+competitive position to face contextual challenges.
+Moving to slide 4, I will now comment on the bank’s 3Q22 financial results.
+BBVA Argentina 3Q22 net income was 9.7 billion pesos, decreasing 50% quarter-over-quarter. This implied a 
+quarterly ROE of 13.5% and a quarterly ROA of 2.4%.
+Operating income in 3Q22 was 48.4 billion pesos, 24% above the 39 billion pesos recorded in 2Q22.
+Quarterly operating results are mainly explained by (1) greater interest income, (2) higher income from 
+measurement of financial instruments at fair value through P&L, and (3) lower operating expenses, mainly 
+personnel expenses. This allowed net operating income to increase above operating expenses.
+These effects were partially offset by a fall in net fee income, mainly affected by the negative effect of inflation.
+Net income for the period fell 50% QoQ due to the contrast generated by the effects of a benefit in the income 
+tax line, as a result of the implications of tax deferrals, recorded in 2Q22.
+In the first nine months of 2022, the accumulated net income was 34.8 billion pesos, 28% above the 27.2 
+billion pesos recorded in the first nine months of 2021. The nine month accumulated ROA reached 2.9% while 
+the nine month accumulated ROE was 16.8%.
+Turning into the P&L lines in slide 5, Net interest income for 3Q22 was 76.6 billion pesos, increasing 15.6%
+QoQ, and 43.3% YoY.
+In 3Q22, interest income, in monetary terms, increased more than interest expense, mainly due to (1) higher 
+income from government securities, (2) an increase in income from interests from loans, in particular 
+overdrafts and discounted instruments, and (3) increases in income from CER/UVA clause adjustments. The 
+items mentioned take place in a context of increasing interest rates, derived from sequential increases in the 
+monetary policy rate by the BCRA, as well as an increase in the inflation rate.
+In the quarter, interest income totaled 144.3 billion pesos, increasing 18.8% compared to 2Q22. Quarterly
+increase is mainly driven by (1) higher income from government securities, both from an increase in the 
+nominal rate and the volume in the position of LELIQ; and (2) an increase in interests from loans, mainly 
+overdrafts and discounted instruments, especially due to the increment in interest rates and higher activity.
+Interest expenses totaled 67.7 billion pesos, denoting a 22.5% increase QoQ. Quarterly increase is described 
+by higher time deposit expenses, together with higher CER/UVA adjustment expenses.
+Interests from time deposits (including investment accounts) explain 70.9% of interest expenses, versus 
+69.3% the previous quarter. 
+Net fee income as of 3Q22 totaled 9.1 billion pesos, decreasing 27.5% QoQ.
+In 3Q22, fee income fell 5.9%, mainly explained by a decline in fees from credit cards, mostly due to the effect 
+of inflation, and an increase in the use of the Puntos BBVA benefit program. This was offset by an increase in
+fees linked to deposits, given to the average increase in prices of accounts and packaged maintenance, during
+the month of September.
+Regarding fee expenses, these increased 48.4% QoQ. Higher expenses in the quarter are partially explained 
+by expenditures linked to credit and debit cards, due to higher client acquisition costs.
+On 3Q22, loan loss allowances increased 37%, mainly due to the periodic update of macroeconomic scenarios 
+in IFRS 9 impairment models.
+During 3Q22, total operating expenses were 43.8 billion pesos, decreasing 2.9% QoQ. 32% were personnel 
+benefits versus 34% on 2Q22.
+During the quarter personnel benefits fell 10.6% QoQ. The quarterly decrease is partially explained by the 
+retroactive effect of wage increments impacted in 2Q22. This past effect surpasses the collective agreement 
+with unions corresponding to 3Q22 and the revaluation of stock of vacation not taken. 
+As of 3Q22, administrative expenses also decreased 1.8% QoQ. The quarterly decrease is partially explained by 
+(1) a reduction in rent, (2) greater efficiency in armored transportation and (3) an improvement in maintenance, 
+electricity and advertising costs, among others.
+The accumulated efficiency ratio as of 3Q22 was 69%, improving compared to the 71.3% reported in 2Q22. The 
+quarterly improvement is explained by a decrease in expenses, and also an increase in income, both due to a
+reduction in expenses as well as a significant increase in interest income.
+In terms of activity, on slide 6, total consolidated financing to the private sector in 3Q22 totaled 582.4 billion
+pesos, falling 8% QoQ, and 6.4% YoY.
+Loans to the private sector in pesos decreased 6.3% in 3Q22. During the quarter, the decline was especially 
+driven by an 8.6% fall in credit card, a 13.6% decrease in other loans, followed by a 5.7% fall in consumer loans. 
+Regarding other loans, the main fall is observed in commercial loans (“PIV”). These decreases were offset by a 
+6.4% and a 27.5% increase in overdrafts and in receivables from financial leases.
+Loans to the private sector denominated in foreign currency fell 27.8% QoQ. Quarterly decrease is mainly 
+explained by a 47.9% decline in other loans, followed by a 22.4% fall in prefinancing and financing of exports, 
+and a 12.5% fall in credit cards.
+During the quarter, both the retail and the commercial portfolio, fell in real terms.
+Loan portfolios were highly impacted by the effect of inflation during the third quarter of 2022, which reached 
+22%. In nominal terms, BBVA Argentina managed to increase the total loan portfolio by 11.9% during the 
+quarter.
+BBVA Argentina’s consolidated market share of private sector loans reached 8.47% as of the 3Q22 improving 
+from 8.10% a year ago.
+In 3Q22, asset quality ratio or NPL was 1.07%, compared to the 1.08% recorded in 2Q22. This is mainly 
+explained by a similar percentage reduction of both the non-performing portfolio as well as the total portfolio.
+The coverage ratio was 236.87% in 3Q22, above the 219.39% recorded in 2Q22. The increase in coverage is 
+merely the product of a greater fall in the non-performing portfolio versus a lower percentage fall of allowances.
+Cost of risk reached 2.65% as of 3Q22, above 2Q22’s 1.94%. This is mostly explained by growth in loan loss 
+allowances in the quarter, mainly due to the periodic update of macroeconomic scenarios in IFRS 9 impairment 
+models.
+On the funding side, as seen on slide 7, private non-financial sector deposits in 3Q22 totaled 1.1 trillion pesos, 
+falling 9.9% QoQ, and 7.2% YoY. Quarterly decrease was mainly explained by sight deposits.
+The Bank’s consolidated market share of private deposits reached 6.68% as of 3Q22.
+Private non-financial sector deposits in pesos, decreased 9.8% compared to 2Q22. The quarterly change is 
+mainly affected by a decrease in sight deposits, especially checking accounts by 23.3%, followed by saving 
+accounts by 17.9%. This was partially offset by an increase in investment accounts by 14.7%.
+Private non-financial sector deposits in foreign currency expressed in pesos fell 10.6% QoQ. As of 3Q22, the 
+Bank’s transactional deposits, considering checking accounts and savings accounts represented 55.2% of total 
+non-financial private deposits versus 60.2% in 2Q22.
+In terms of capitalization, BBVA Argentina continues to show strong solvency indicators on 3Q22. Capital ratio 
+reached 26.2%.
+Exposure to the public sector in 3Q22, excluding central bank instruments, represented 9.8% of total assets, 
+slightly above the 9% in 2Q22 and way below the 15.1% reported by the System as of August 2022.
+It is worth mentioning that as of the date of this report, BBVA Argentina has distributed dividends by 12.1 billion
+pesos (instalments 1 to 11) according to the established schedule published on June 16, 2022. The 12 and last 
+installment, was announced last Friday, November 18th.
+The bank’s total liquidity ratio remained healthy at 79% of total deposits as of September30th.
+This concludes our prepared remarks. We will now take your questions. Operator, please open the line for 
+questions.
+Thank you very much for your time and let us know if you have further questions. Thank you, and enjoy the 
+rest of your day.
+
