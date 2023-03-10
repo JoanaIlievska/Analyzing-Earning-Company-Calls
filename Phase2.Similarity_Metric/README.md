@@ -8,3 +8,8 @@ Dice example:
 
 
 Conclusion: Speech_Recognition works awsome with short videos (max len 30min) ,but when it comes to longer videos the performance is much worse. 
+
+
+I have tried two more models, Silero-Developed by Google and Whisper developed by OpenAI.
+
+![image](https://user-images.githubusercontent.com/72815294/224261041-c1be6412-55b3-487c-a8d6-4947f38b0e6f.png)
